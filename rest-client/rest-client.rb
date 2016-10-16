@@ -46,3 +46,22 @@ begin
 rescue RestClient::NotFound => e
 	puts "Error: #{e.message}\n\n"
 end
+
+###################################
+
+
+puts "Example 4.\n\n"
+
+# A wrong/dummy youtube video
+
+begin
+	resp = RestClient.get 'http://mydomino.com'
+	puts "Resp 4 is #{resp}\n\n"
+
+	#result = JSON.parse(resp)
+    #puts result.to_json
+
+	puts "Resp code 4 is #{resp.code}\n\n"
+rescue RestClient::NotFound => e
+	puts "Error: #{e.message}\n\n"
+end

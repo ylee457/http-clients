@@ -18,13 +18,28 @@ https://www.youtube.com/watch?v=36M2BSA2LYk
 
 =======================================================================================
 
+ruby rest-client tutorial
+http://wiki.servicenow.com/index.php?title=Table_API_Ruby_Examples#gsc.tab=0
 
+http://www.rubydoc.info/gems/rest-client/1.6.1/RestClient
+
+=======================================================================================
+Use Pry & pry-rails
+
+http://pryrepl.org/
+https://teamgaslight.com/blog/i-like-pry-but-dot-dot-dot
 =======================================================================================
 
 =======================================================================================
+Excel date auto increment 
 
-=======================================================================================
+Here's how to do it:
 
+    Put the starting date and the first increment in two rows (ex: Row 1: 5/1/08 Row 2: 5/2/08).
+    Select the two rows.
+    Move your mouse to the bottom right corner of the second row. The cursor should turn into a plus sign.
+    Move the plus sign down until the dates have incremented to where you want.
+    
 =======================================================================================
 
 =======================================================================================
