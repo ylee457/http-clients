@@ -1,0 +1,17 @@
+Getting Posts from Dreamhost...
+paswd is: Ev2S9rsBZ7ASFsD
+
+Query options is: {:json=>"core.info"}
+
+Params sent to URL is: http://mydomino.dreamhosters.com?json=core.info
+
+Response is: {"status"=>"ok", "json_api_version"=>"1.1.1", "controllers"=>["core"]}
+
+Pretty print the output
+{
+  "status": "ok",
+  "json_api_version": "1.1.1",
+  "controllers": [
+    "core"
+  ]
+}
