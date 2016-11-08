@@ -1,0 +1,15 @@
+[
+	{"shop":{"id":1,
+		"Name":"Walmart"
+	}},	
+
+	{"shop":{
+		"id":2,
+		"Name":"Safeway"
+	}},	
+
+	{"shop":{
+		"id":3,
+		"Name":"Amazon"
+	}}
+]
