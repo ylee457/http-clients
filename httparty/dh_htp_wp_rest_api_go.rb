@@ -8,7 +8,8 @@ def get_posts
   begin
 
   	dh = DHHtp.new(HOST_IP)
-  	query_param = {filter: {slug: 'solar'}}
+  	#query_param = {filter: {posts_per_page: 6, page:3}}
+    query_param = {page: 1}
     #query_param = {json: 'core.info', controller: 'core'}
   	response = dh.get_posts(query_param)
 
@@ -29,7 +30,7 @@ def pretty_print_posts_from_api
   begin
 
     dh = DHHtp.new(HOST_IP)
-    query_param = {filter: {slug: 'solar'}}
+    query_param = {filter: {posts_per_page: 4}}
     #query_param = {json: 'core.info', controller: 'core'}
     response = dh.get_posts(query_param)
 
@@ -80,7 +81,7 @@ end
 
 
 
-#get_posts
-pretty_print_posts_from_api
+get_posts
+#pretty_print_posts_from_api
 #get_recent_posts
 
