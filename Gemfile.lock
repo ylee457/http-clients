@@ -12,8 +12,11 @@ GEM
     mime-types (3.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
+    mini_portile2 (2.1.0)
     multi_xml (0.5.5)
     netrc (0.11.0)
+    nokogiri (1.6.8.1)
+      mini_portile2 (~> 2.1.0)
     rest-client (2.0.0)
       http-cookie (>= 1.0.2, < 2.0)
       mime-types (>= 1.16, < 4.0)
@@ -29,6 +32,7 @@ PLATFORMS
 DEPENDENCIES
   crack (~> 0.4.3)
   httparty (~> 0.14.0)
+  nokogiri (~> 1.6, >= 1.6.8)
   rest-client (~> 2.0)
 
 RUBY VERSION

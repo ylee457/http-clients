@@ -1,0 +1,2374 @@
+Getting Posts from Dreamhost with WP REST API V2...
+paswd is: Ev2S9rsBZ7ASFsD
+
+Query options is: {:page=>1, :per_page=>20}
+
+Params sent to URL is: http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?page=1&per_page=20
+
+Pretty print the output
+[
+  {
+    "id": 3151,
+    "date": "2016-10-27T10:30:42",
+    "date_gmt": "2016-10-27T17:30:42",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3151"
+    },
+    "modified": "2016-10-27T10:27:48",
+    "modified_gmt": "2016-10-27T17:27:48",
+    "slug": "mydomino-voting-guide",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/mydomino-voting-guide/",
+    "title": {
+      "rendered": "The MyDomino 2016 Guide to Clean Energy Voting"
+    },
+    "content": {
+      "rendered": "<p>It&#8217;s fair to say that this has been one rollercoaster of an election season. <strong>You&#8217;re probably ready for it to be over!</strong></p>\n<p>Don&#8217;t worry &#8212; it will be behind us soon! In the meantime, if you&#8217;re like most of us, you can probably use a little help in sorting through all the options. <strong>It&#8217;s not just the highest office in the land that&#8217;s on the ballot</strong>.</p>\n<p>At MyDomino, of course, our focus is on the environment. So we&#8217;ve prepared a simple guide for you on how to vote right for the planet.<!--more--></p>\n<h2>Where to start?</h2>\n<p>Whether you&#8217;re a Democrat or Republican &#8212; or prefer the Green Party or some other option &#8212; you probably care about the environment. And <strong>what better way to care for our environment than with clean energy</strong>?</p>\n<p>With groups like the <a href=\"http://www.bloomberg.com/news/articles/2013-11-12/tea-party-s-green-faction-fights-for-solar-in-red-states\">Green Tea Coalition</a> gaining prominence around the country, it&#8217;s clear that folks from all over the political spectrum support clean energy.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/green-tea-coalition.png\"><img class=\"alignnone wp-image-3198\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/green-tea-coalition.png\" alt=\"green-tea-coalition\" width=\"700\" height=\"385\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/green-tea-coalition.png 2400w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/green-tea-coalition-300x165.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/green-tea-coalition-768x422.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/green-tea-coalition-1024x563.png 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/green-tea-coalition-610x336.png 610w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<p>If you want to make this even more clear to your elected officials, consider taking the <a href=\"https://www.climaterealityproject.org/pledge\" target=\"_blank\">Climate Reality pledge</a>. By signing, you&#8217;re <strong>making a commitment to support leaders who will make climate solutions a reality</strong>.</p>\n<h2>See where your representatives stand</h2>\n<p>You&#8217;ll also want to know where your representatives stand on climate and clean energy. Here are some helpful resources.</p>\n<ul>\n<li><strong>Governors and attorneys general</strong>: This November, <a href=\"https://ballotpedia.org/Gubernatorial_elections,_2016\" target=\"_blank\">12 states will hold gubernatorial elections</a>. Want to know how their governors stack up on climate and clean energy? <a href=\"https://thinkprogress.org/the-2015-climate-guide-to-governors-7f5a6d1ba124#.i9ps4g3k3\" target=\"_blank\">This list</a> lays it all out for you, and <a href=\"https://thinkprogress.org/is-your-governor-or-attorney-general-a-climate-denier-this-map-will-tell-you-f007477a650b#.i3zm2g1g4\" target=\"_blank\">this map</a> includes both governors and attorneys general.</li>\n<li><strong>Congress</strong>: Did you know that <strong>6 out of 10 of us are represented by someone in Congress who denies the fact of climate change</strong>? See where your <a href=\"https://thinkprogress.org/most-americans-disagree-with-their-congressional-representative-on-climate-change-95dc0eee7b8f#.dbl9910do\" target=\"_blank\">representatives stand on climate change</a>.</li>\n</ul>\n<div id=\"attachment_3199\" style=\"width: 710px\" class=\"wp-caption alignnone\"><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-26-at-11.49.59-AM.png\"><img class=\"wp-image-3199\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-26-at-11.49.59-AM.png\" alt=\"screen-shot-2016-10-26-at-11-49-59-am\" width=\"700\" height=\"535\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-26-at-11.49.59-AM.png 735w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-26-at-11.49.59-AM-300x229.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-26-at-11.49.59-AM-610x466.png 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Screen-Shot-2016-10-26-at-11.49.59-AM-90x70.png 90w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a><p class=\"wp-caption-text\">Source: ThinkProgress</p></div>\n<h2>Check out some endorsements</h2>\n<p>With so much focus on the presidential candidates, it&#8217;s easy to forget how many other positions and propositions are on the ballot &#8212; especially if you <a href=\"https://ballotpedia.org/California_2016_ballot_propositions\" target=\"_blank\">live in California</a>! <strong>All of these elections are important, too</strong>.</p>\n<p>To help you sort through those, we&#8217;ve compiled a list of some guides and endorsements from major environmental organizations.</p>\n<ul>\n<li><a href=\"http://content.sierraclub.org/voterguide/endorsements\" target=\"_blank\">Sierra Club&#8217;s</a> nationwide election endorsements &#8212; the most comprehensive of the bunch.</li>\n<li><a href=\"http://www.lcv.org/media/2016-climate-guide.html?referrer=https://www.google.com/\" target=\"_blank\">League of Conservation Voters</a> 2016 climate guide.</li>\n<li><a href=\"https://nextgenclimate.org/blog/elections/nextgen-climate-endorsements/\" target=\"_blank\">NextGen Climate</a> endorsements.</li>\n<li><a href=\"http://climatehawksvote.com/endorsements/\" target=\"_blank\">Climate Hawks Vote</a> endorsements.</li>\n<li><a href=\"http://www.nrdcactionfund.org/action-fund-endorsed-candidates/\" target=\"_blank\">NRDC Action Fund</a> endorsements.</li>\n</ul>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/980x.jpg\"><img class=\"alignnone wp-image-3200\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/980x.jpg\" alt=\"voting for climate\" width=\"700\" height=\"350\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/980x.jpg 980w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/980x-300x150.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/980x-768x384.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/980x-610x305.jpg 610w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<h2>Vote #NoOn1 if you&#8217;re in Florida</h2>\n<p>Florida is the Sunshine State, so it&#8217;s a leader in solar power &#8212; right?</p>\n<p>Actually, in spite of Florida&#8217;s abundant sunshine, it doesn&#8217;t show up at all in lists of <a href=\"http://www.seia.org/research-resources/top-10-solar-states\" target=\"_blank\">top solar states</a>. It even <a href=\"https://solarpowerrocks.com/2016-state-solar-power-rankings/#rankings\" target=\"_blank\">gets a C on this list</a>.</p>\n<p>Why is that? In a word, <strong>policies</strong>. When it comes to solar, <a href=\"http://www.theenergycollective.com/rosana-francescato/185256/solar-energy-germany-where-sun-dont-shine\" target=\"_blank\">policy trumps sunshine</a>.</p>\n<p>Things are starting to look up in Florida. But now, <strong>a deceptive measure is on the ballot</strong>. Utilities are trying to position Amendment 1 as pro-solar. But it&#8217;s really an effort by Florida’s monopoly utilities to severely restrict rooftop solar expansion.</p>\n<p>You can read all about it at the <a href=\"http://www.flsolarchoice.org/\" target=\"_blank\">Floridians for Solar Choice site</a>, in <a href=\"http://www.huffingtonpost.com/entry/florida-solar-amendment_us_580e7b18e4b0a03911ee6124\" target=\"_blank\">this Huffington Post article</a>, <a href=\"http://sierraclub.org/sierra/2016-5-september-october/green-life/not-so-smart-solar-amendment\" target=\"_blank\">this Sierra Club article</a>, and <a href=\"http://www.miamiherald.com/news/politics-government/election/article109017387.html\" target=\"_blank\">this Miami Herald article</a>, which details how <strong>utilities have tried to deceive voters into supporting the measure</strong>.</p>\n<p>If you live in Florida, here&#8217;s your chance to support rooftop solar!</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/3-reasons-to-vote-no-on-1-1024x500.png\"><img class=\"alignnone wp-image-3196\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/3-reasons-to-vote-no-on-1-1024x500.png\" alt=\"3-reasons-to-vote-no-on-1-1024x500\" width=\"700\" height=\"342\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/3-reasons-to-vote-no-on-1-1024x500.png 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/3-reasons-to-vote-no-on-1-1024x500-300x146.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/3-reasons-to-vote-no-on-1-1024x500-768x375.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/3-reasons-to-vote-no-on-1-1024x500-610x298.png 610w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<h2>A quick note about the presidential election</h2>\n<p>While we&#8217;re talking about elections, we can&#8217;t resist throwing in just a few words about the main one on everyone&#8217;s mind.</p>\n<p>By now, <strong>the differences between the top two presidential candidates should be clear</strong>. But in case you need a reminder, the <a href=\"http://www.desertsun.com/story/news/environment/2016/10/13/voter-guide-clinton-and-trump-global-warming-energy-and-california-drought/91277414/\" target=\"_blank\">Desert Sun</a> provides a nice analysis of the candidates&#8217; energy policies, or lack thereof. <a href=\"http://www.businessinsider.com/clinton-trump-environment-policies-plans-climate-change-platforms-2016-9\" target=\"_blank\">Business Insider</a> has compiled a great breakdown of their differences. Both of these articles also cover the candidates&#8217; stances on water issues.</p>\n<p>For another take on what our most notorious candidate thinks of global warming, check out <a href=\"http://mydomino.dreamhosters.com/trump-global-warming/\">this article</a> we wrote over a year ago. Not much has changed since then!</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-145694108.jpg\"><img class=\"alignnone wp-image-3201\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-145694108.jpg\" alt=\"bigstock-145694108\" width=\"700\" height=\"441\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-145694108.jpg 900w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-145694108-300x189.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-145694108-768x484.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-145694108-610x384.jpg 610w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<h2>Take it a step further</h2>\n<p>Not satisfied with just voting? Want to also call out climate change deniers? <a href=\"https://www.barackobama.com/climate-change-deniers/#/\" target=\"_blank\">This site</a> makes it easy.</p>\n<p>If you&#8217;re up for getting out the environmental vote, the <a href=\"http://www.environmentalvoter.org/what-we-do\" target=\"_blank\">Environmental Voter Project</a> wants your help.</p>\n<p>Whatever level of involvement you feel comfortable with, one thing is certain: This is an important election, for all of us and for the planet. <strong>So let&#8217;s all get out and vote!</strong></p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-132166637.jpg\"><img class=\"alignnone wp-image-3240\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-132166637.jpg\" alt=\"voting\" width=\"700\" height=\"440\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-132166637.jpg 900w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-132166637-300x189.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-132166637-768x483.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-132166637-610x384.jpg 610w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<p>&nbsp;</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Wondering how to vote in the many elections this November 8? We&#8217;ve prepared a simple guide for you on voting right for the planet.</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3191,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      3,
+      7
+    ],
+    "tags": [
+      36,
+      684,
+      687,
+      606,
+      685,
+      686
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Vote-Election-Badge-Button-For-120124427.jpg",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3151"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3151"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3151/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3191"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3151"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3151"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3151"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3145,
+    "date": "2016-10-26T10:35:34",
+    "date_gmt": "2016-10-26T17:35:34",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3145"
+    },
+    "modified": "2016-10-24T11:18:36",
+    "modified_gmt": "2016-10-24T18:18:36",
+    "slug": "cows-climate-change",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/cows-climate-change/",
+    "title": {
+      "rendered": "What Do Cows Have to Do with Climate Change?"
+    },
+    "content": {
+      "rendered": "<p>What emits <strong>as much harmful emissions as planes, trains, and automobiles combined</strong>? All while looking perfectly peaceful and serene? Your friendly neighborhood livestock, that&#8217;s what.</p>\n<p>You read that right. According to a <a href=\"http://www.fao.org/3/i3437e.pdf\">report by the United Nations</a>, livestock accounts for a full <strong>14.5% of global greenhouse gas emissions</strong>.<!--more--></p>\n<h2>The cow factor</h2>\n<p>You may have already heard that <a href=\"http://mydomino.dreamhosters.com/a-surprising-way-to-conserve-water/\">beef is a big water hog</a>. You may be aware that cattle ranching is responsible for <a href=\"http://www.onegreenplanet.org/animalsandnature/beef-production-is-killing-the-amazon-rainforest/\">70% of Amazon deforestation</a>.</p>\n<p>But did you know that one cow <a href=\"http://animals.howstuffworks.com/mammals/methane-cow.htm\">emits the same amount of greenhouse gas</a> as a car does in a single day?</p>\n<p>We&#8217;re not talking carbon emissions. Cows and other livestock emit huge quantities of <strong>methane, which is <a href=\"https://www.edf.org/methane-other-important-greenhouse-gas\" target=\"_blank\">84 times more potent </a>than carbon dioxide</strong>.</p>\n<p>So, those cows you see plodding peacefully in picturesque pastures could actually be causing quite a bit of harm to our environment.</p>\n<p>Well, not so much those cows. More damaging are their friends who don&#8217;t roam around the fields. When cows are cramped in small stalls, their manure can&#8217;t decompose naturally, so more methane gets released into the atmosphere.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Cows-grazing-on-pasture-130384907.jpg\"><img class=\"alignnone wp-image-3147\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Cows-grazing-on-pasture-130384907.jpg\" alt=\"livestock\" width=\"700\" height=\"514\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Cows-grazing-on-pasture-130384907.jpg 900w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Cows-grazing-on-pasture-130384907-300x220.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Cows-grazing-on-pasture-130384907-768x564.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Cows-grazing-on-pasture-130384907-610x448.jpg 610w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<h2>Challenges farmers face</h2>\n<p>So what&#8217;s a farmer to do?</p>\n<p>Some farmers are opting to <strong>raise</strong> <strong>grass-fed cattle</strong>. That can be a selling point as many of us discover the benefits of choosing <a href=\"http://mydomino.dreamhosters.com/whats-the-best-way-to-eat/\">local, grass-fed beef</a> when we really need that burger fix.</p>\n<p>But it takes a lot of land to keep your cows out in the pasture. Farmers may not be able to afford it. And as a planet, we can&#8217;t afford for so much land to be taken up by grazing.</p>\n<p>Other farmers are <strong>investing in methane digesters</strong>. These machines have the advantage of <a href=\"http://www.sfchronicle.com/bayarea/article/Climate-fight-targeting-cows-may-reshape-9401293.php\" target=\"_blank\">generating electricity</a> for the farmers, while cutting methane emissions.</p>\n<p>Still, methane digesters aren&#8217;t cheap. New laws are being passed in some states to regulate methane emissions, so some farmers may choose to make the investment to comply. But others will likely be forced out of business.</p>\n<p>A promising new solution may be a simpler one: <strong>adding seaweed to a cow&#8217;s diet</strong>. Australian researchers are claiming that this addition <a href=\"http://futurism.com/the-key-to-saving-the-environment-seaweed-eating-cows/\" target=\"_blank\">cuts methane emissions by up to 99%</a>! It remains to be seen how we can produce enough seaweed to make a dent on the diet of all the cows around the world.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Funny-cow-on-a-green-summer-me-43264438.jpg\"><img class=\"alignnone wp-image-3148\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Funny-cow-on-a-green-summer-me-43264438.jpg\" alt=\"Funny cow on a green summer meadow\" width=\"700\" height=\"464\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Funny-cow-on-a-green-summer-me-43264438.jpg 900w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Funny-cow-on-a-green-summer-me-43264438-300x199.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Funny-cow-on-a-green-summer-me-43264438-768x509.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Funny-cow-on-a-green-summer-me-43264438-610x405.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Funny-cow-on-a-green-summer-me-43264438-210x140.jpg 210w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<h2>How do we fix this?</h2>\n<p>You and I may not be able to solve the problems of farmers. But we can all have a real impact on methane emissions.</p>\n<p>Something each one of us can all do is to <strong>simply eat less meat and dairy</strong>.</p>\n<p>This idea may not have you jumping up and down for joy. But hear me out.</p>\n<p>I&#8217;m not saying you should never consume meat or dairy again. A good start is to <strong>cut back a bit</strong>. When you realize that foregoing just one quarter-pound burger <a href=\"http://mydomino.dreamhosters.com/a-surprising-way-to-conserve-water/\">saves as much water as skipping 15 showers</a>, you might feel even more motivated. Add to that the health benefits of a plant-based diet, and you might <a href=\"http://mydomino.dreamhosters.com/are-you-a-reducitarian/\">consider becoming a reducetarian</a>.</p>\n<h2>You have options</h2>\n<p>This <strong>doesn&#8217;t mean sacrificing taste</strong>. It may not be long till you can even have your cake &#8212; or your burger &#8212; and eat it!</p>\n<p>New laboratory-grown meat coming on the market, like the <a href=\"http://www.haaretz.com/jewish/food/1.743774\" target=\"_blank\">Impossible Burger</a>, may let us <strong>enjoy a real meat flavor without harming our health or the environment</strong>. These burgers are a far cry from the soy- or seed-based substitutes that were our only options till now.</p>\n<p><a href=\"http://www.onegreenplanet.org/vegan-food/best-vegan-cheese-brands/\" target=\"_blank\">Vegan cheeses are also getting better</a>, and becoming more popular.</p>\n<p>So consider your options these days. Consider cutting back on the dairy and meat.</p>\n<p>Your body will thank you. The planet will thank you. And <strong>your bovine buddies will thank you</strong>.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413.jpg\"><img class=\"alignnone wp-image-3146\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413.jpg\" alt=\"Silly smiling cow on sky background\" width=\"700\" height=\"700\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413.jpg 900w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413-150x150.jpg 150w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413-300x300.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413-768x768.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413-610x610.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Silly-smiling-cow-on-sky-backg-14013413-735x735.jpg 735w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>What emits as much harmful emissions as planes, trains, and automobiles combined? Your friendly neighborhood livestock, that&#8217;s what.</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3149,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      7
+    ],
+    "tags": [
+      11,
+      675,
+      676,
+      678,
+      679,
+      674,
+      359,
+      677
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-cow-tongue.jpg",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3145"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3145"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3145/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3149"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3145"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3145"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3145"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3141,
+    "date": "2016-10-25T10:51:36",
+    "date_gmt": "2016-10-25T17:51:36",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3141"
+    },
+    "modified": "2016-10-25T10:57:19",
+    "modified_gmt": "2016-10-25T17:57:19",
+    "slug": "new-electric-cars-coming-market",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/new-electric-cars-coming-market/",
+    "title": {
+      "rendered": "Are You Ready? A Whole New Breed of Electric Car Is Coming"
+    },
+    "content": {
+      "rendered": "<p>Have you been debating getting an electric car, but putting it off? If so, you’re not alone. <a href=\"http://consumerfed.org/press_release/new-data-shows-consumer-interest-electric-vehicles-growing/\" target=\"_blank\">Surveys</a> have shown growing consumer interest in the electric car (EV) marketplace.<!--more--></p>\n<p>If you&#8217;re interested in an EV, now could be a great time to think about getting one. That&#8217;s because new models with longer range and a lower price tag will soon be hitting sales floors.</p>\n<p>A handy graphic by <a href=\"https://about.bnef.com/\" target=\"_blank\">Bloomberg New Energy Finance</a> shows recently released and upcoming models &#8212; and compares their range and cost.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bnef-ev-range-cost.png\"><img class=\"aligncenter wp-image-3161 size-full\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bnef-ev-range-cost.png\" alt=\"low cost, high range\" width=\"800\" height=\"472\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bnef-ev-range-cost.png 800w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bnef-ev-range-cost-300x177.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bnef-ev-range-cost-768x453.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bnef-ev-range-cost-610x360.png 610w\" sizes=\"(max-width: 800px) 100vw, 800px\" /></a></p>\n<p>Note that vehicles labeled in black are already out; ones in green are forthcoming models about which specific details have been released; and blue are models that have been announced, but no no details have been made available.</p>\n<h2>The schism in availability</h2>\n<p>If we look at what&#8217;s currently available on the market, we see a key segment that&#8217;s missing. On the one side there are relatively inexpensive, low-range vehicles. On the other, there are expensive Teslas that offer much longer range. Low-cost, high-range models are missing from the market currently. But, that won&#8217;t be the case for long!</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Chevrolet-Bolt-concept-201-626x382.jpg\"><img class=\"aligncenter wp-image-3167 size-full\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Chevrolet-Bolt-concept-201-626x382.jpg\" alt=\"low cost, high range\" width=\"626\" height=\"382\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Chevrolet-Bolt-concept-201-626x382.jpg 626w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Chevrolet-Bolt-concept-201-626x382-300x183.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Chevrolet-Bolt-concept-201-626x382-610x372.jpg 610w\" sizes=\"(max-width: 626px) 100vw, 626px\" /></a></p>\n<p>Manufacturers are rushing to bring new models to market to fill this void. When the Chevrolet Bolt is released later this year, it&#8217;ll be the first model to hit this low-cost, high-range sweet spot. People will be watching its reception closely, as it could really open up the market for EVs.</p>\n<h2>Looking further ahead</h2>\n<p>Looking at models that will be coming out over the next several years gives us even more reason to smile. Major manufacturers are pushing the limits of range and cost with almost every model announced.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/budd-e_concept_5786.jpg\"><img class=\"aligncenter size-full wp-image-3169\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/budd-e_concept_5786.jpg\" alt=\"budd-e_concept_5786\" width=\"800\" height=\"422\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/budd-e_concept_5786.jpg 800w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/budd-e_concept_5786-300x158.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/budd-e_concept_5786-768x405.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/budd-e_concept_5786-610x322.jpg 610w\" sizes=\"(max-width: 800px) 100vw, 800px\" /></a></p>\n<p>These new model cars look great too! And with companies like VW <a href=\"http://www.roadandtrack.com/new-cars/future-cars/news/a30278/volkswagens-new-strategy-is-all-about-electric-cars/\" target=\"_blank\">betting big on EVs</a>, who knows what new models we&#8217;ll see.</p>\n<h2>You don&#8217;t need to wait</h2>\n<p>There will always be future EVs coming down the line, but you already have great options available today. Cars like the new Nissan Leaf are excellent for the average work commute and can be had for under $30,000!</p>\n<p>If you&#8217;d like to learn more about EVs you can purchase today, <a href=\"https://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_NewEVsAvailable\">contact a MyDomino energy savings concierge</a>. Your concierge can help you decide which car is right for you. They&#8217;ll also discuss ways for you to maximize your savings &#8212; like adding a home solar system to charge that new car.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>New electric cars are coming to market soon that promise to hit the sweet spot of low-cost, high-range. These could help make electric cars mainstream.</p>\n",
+      "protected": false
+    },
+    "author": 4,
+    "featured_media": 3175,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      5
+    ],
+    "tags": [
+      682,
+      681,
+      65,
+      64,
+      680,
+      683
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/electric-cars-uk.jpg",
+    "author_meta": {
+      "ID": "4",
+      "user_nicename": "brian",
+      "user_email": "brian@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:37:41",
+      "display_name": "Brian Vieweger",
+      "first_name": "Brian",
+      "last_name": "Vieweger"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3141"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/4"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3141"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3141/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3175"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3141"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3141"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3141"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3120,
+    "date": "2016-10-24T10:05:51",
+    "date_gmt": "2016-10-24T17:05:51",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3120"
+    },
+    "modified": "2016-10-21T12:28:05",
+    "modified_gmt": "2016-10-21T19:28:05",
+    "slug": "studies-show-solar-good-for-us",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/studies-show-solar-good-for-us/",
+    "title": {
+      "rendered": "Studies Have Shown: Solar Is Good for All of Us"
+    },
+    "content": {
+      "rendered": "<p>We&#8217;ve all heard that phrase: &#8220;<strong>Studies have shown</strong> &#8230;&#8221; Haven&#8217;t you ever thought some of those studies seemed, well &#8212; just obvious?</p>\n<p>I don&#8217;t know about you, but I didn&#8217;t need a study to tell me that <a href=\"http://time.com/4087775/sugar-is-definitely-toxic-a-new-study-says/\" target=\"_blank\">sugar is bad for your health</a>, <a href=\"http://www.independent.co.uk/news/science/cats-recognise-their-owners-voices-but-never-evolved-to-care-says-study-8966580.html\" target=\"_blank\">cats don&#8217;t care</a> what you say to them, or students who do homework <a href=\"http://www.tandfonline.com/doi/abs/10.1080/00220485.2013.770334\" target=\"_blank\">do better in school</a>.<!--more--></p>\n<p>You can even get a <a href=\"http://time.com/4026473/ridiculous-science-studies/\" target=\"_blank\">good laugh out of some of the more obvious studies</a> out there.<a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/CatNotListening-1.png\"><img class=\"alignnone wp-image-3129\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/CatNotListening-1.png\" alt=\"studies have shown\" width=\"700\" height=\"483\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/CatNotListening-1.png 1500w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/CatNotListening-1-300x207.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/CatNotListening-1-768x530.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/CatNotListening-1-1024x707.png 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/CatNotListening-1-610x421.png 610w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<h2>Why do we need solar studies?</h2>\n<p>Solar studies aren&#8217;t quite so funny. Maybe the benefits of solar power aren&#8217;t as obvious as the fact that travelers prefer flying when they <a href=\"https://skift.com/2016/02/01/business-travelers-like-avoiding-long-lines-at-the-airport/\" target=\"_blank\">don&#8217;t have to go through long security lines</a>, or that <a href=\"http://www.psychologicalscience.org/news/releases/exercise-does-a-body-and-a-mind-good.html\" target=\"_blank\">exercise is good for you</a>.</p>\n<p>Sure, installing solar panels on your own roof will <a href=\"http://mydomino.dreamhosters.com/solar-costs-and-savings/\">save you money</a> and <a href=\"http://mydomino.dreamhosters.com/want-to-increase-your-homes-value/\">increase your home&#8217;s value</a>. Solar even comes with some other <strong>pretty sweet perks</strong>  — like giving you more control over your power, and the satisfaction of knowing you&#8217;re using clean energy.</p>\n<p>But what about people who don&#8217;t go solar? Are you helping them by putting solar on your roof?</p>\n<p>We think so. But some folks aren&#8217;t convinced. And by &#8220;folks,&#8221; I mean utilities and dirty fossil-fuel interests.</p>\n<p>The American people know better — <strong>studies have shown</strong> <a href=\"http://mydomino.dreamhosters.com/americans-love-solar/\">they love solar</a>.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/02/we-love-solar-700x312.png\"><img class=\"alignnone wp-image-2061\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/02/we-love-solar-700x312.png\" alt=\"we-love-solar-700x312\" width=\"600\" height=\"267\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/02/we-love-solar-700x312.png 700w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/02/we-love-solar-700x312-300x134.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/02/we-love-solar-700x312-610x272.png 610w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<p>In fact, Americans love solar so much that for years now, the utilities have been worried that their <a href=\"https://cleantechnica.com/2013/05/17/net-metering-a-net-positive/\" target=\"_blank\">business model is at risk</a>.</p>\n<p>Who can blame them? We&#8217;ve <a href=\"http://mydomino.dreamhosters.com/million-solar-strong/\">passed 1 million solar installations</a> in the U.S. An American is going solar <a href=\"http://mydomino.dreamhosters.com/someone-going-solar-every-82-seconds/\">every 82 seconds</a>. The times they are a-changin &#8212; and <strong>utilities are going to have to change, too</strong>.</p>\n<p>Remember when landlines &#8212; or, gasp, rotary phones &#8212; were your only calling option? Soon, utility customers will also have a lot more choices in where to get their power. In fact, we already do.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372.jpg\"><img class=\"alignnone wp-image-3136\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372.jpg\" alt=\"studies have shown\" width=\"600\" height=\"400\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372.jpg 2800w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372-300x200.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372-768x512.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372-1024x683.jpg 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372-610x407.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372-690x460.jpg 690w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Old-retro-phone-a-dial-number-28859372-210x140.jpg 210w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<h2>What&#8217;s being studied?</h2>\n<p>But change is hard. So, some utilities and fossil-fuel interests have been claiming that solar customers cost everyone else money.</p>\n<p>They&#8217;re blaming <a href=\"http://mydomino.dreamhosters.com/how-solar-net-metering-works/\">net metering</a> —an <strong>important policy that&#8217;s made solar strong in over 40 states</strong>.</p>\n<p>Net metering lets you feed any excess power you generate from your solar panels back into the grid. You get a credit for that power on your electric bill, and you can use the credit later, when the sun goes down.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Electric-Meter-3925531-768x512.jpg\"><img class=\"alignnone wp-image-3139\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Electric-Meter-3925531-768x512.jpg\" alt=\"studies have shown\" width=\"600\" height=\"400\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Electric-Meter-3925531-768x512.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Electric-Meter-3925531-768x512-300x200.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Electric-Meter-3925531-768x512-610x407.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Electric-Meter-3925531-768x512-690x460.jpg 690w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Electric-Meter-3925531-768x512-210x140.jpg 210w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<p>It&#8217;s like rollover minutes on a cell phone bill — except the extra solar power you generate is the rollover minutes, and your electric bill is your cell phone bill.</p>\n<p>According to the utilities, paying solar customers their fare share for the power they generate is costing non-solar utility customers.</p>\n<p>On first glance, that may seem to make sense. But when you really study the matter, <strong>a different picture emerges</strong>.</p>\n<h2>Why so many studies?</h2>\n<p dir=\"ltr\">And studied it has been. In fact, there may be such a thing as over-studying &#8212; especially when the <strong>studies keep finding the same thing</strong>.</p>\n<p dir=\"ltr\">To give you an idea, here are just a few of the studies that have been done so far:</p>\n<ul>\n<li dir=\"ltr\">Way back in 2005, the <a href=\"http://www.energycollection.us/Energy-Solar/Quantifying-The-Benefits.pdf\" target=\"_blank\">Vote Solar Initiative did a study</a> on the benefits of solar in California.</li>\n<li dir=\"ltr\">Vote Solar commissioned another California solar study in 2013, from independent consulting firm <a href=\"http://mseia.net/site/wp-content/uploads/2012/05/Crossborder-Energy-CA-Net-Metering-Cost-Benefit-Jan-2013-final.pdf\" target=\"_blank\">Crossborder Energy</a>.</li>\n<li dir=\"ltr\">In fact, 2013 was a big year for rooftop solar studies &#8212; in <a href=\"http://www.seia.org/sites/default/files/resources/AZ-Distributed-Generation.pdf\" target=\"_blank\">Arizona</a>, <a href=\"http://www.cpuc.ca.gov/NR/rdonlyres/C311FE8F-C262-45EE-9CD1-020556C41457/0/NEMReportWithAppendices.pdf\" target=\"_blank\">California</a>, <a href=\"http://votesolar.org/wp-content/uploads/2013/12/11M-426E_PSCo_DSG_StudyReport_052313.pdf\" target=\"_blank\">Colorado</a>, <a href=\"http://www.asrc.cestm.albany.edu/perez/2011/solval.pdf\" rel=\"no follow\">New York</a>, <a href=\"http://c.ymcdn.com/sites/www.energync.org/resource/resmgr/Resources_Page/NCSEA_benefitssolargen.pdf\" target=\"_blank\">North Carolina</a>, and <a href=\"http://www.slideshare.net/SEIA/impacts-of-solar-pv-on-texas-electricity-markets\" rel=\"no follow\">Texas</a>, and <a href=\"http://publicservicedept.vermont.gov/sites/psd/files/Topics/Renewable_Energy/Net_Metering/Act%20125%20Study%2020130115%20Final.pdf\" rel=\"no follow\">Vermont</a>, among others.</li>\n<li dir=\"ltr\">In 2014, the <a href=\"https://emp.lbl.gov/sites/all/files/LBNL%20PV%20Business%20Models%20Report_no%20report%20number%20(Sept%2025%20revision).pdf\" target=\"_blank\">Lawrence Berkeley National Laboratory</a> conducted a study on net metering.</li>\n<li dir=\"ltr\">Nevada commissioned not <a href=\"http://puc.nv.gov/uploadedFiles/pucnvgov/Content/About/Media_Outreach/Announcements/Announcements/E3%20PUCN%20NEM%20Report%202014.pdf?pdf=Net-Metering-Study\" target=\"_blank\">a study on net metering</a> in 2014, and has commissioned two others since then! Are they hoping to somehow get a different result?</li>\n</ul>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/08/solar-US.jpg\"><img class=\"alignnone wp-image-2925\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/08/solar-US.jpg\" alt=\"best states for rooftop solar\" width=\"600\" height=\"370\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/08/solar-US.jpg 2125w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/08/solar-US-300x185.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/08/solar-US-768x473.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/08/solar-US-1024x631.jpg 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/08/solar-US-610x376.jpg 610w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<p>To see more on the many studies done so far, check out <a href=\"http://www.seia.org/policy/distributed-solar/solar-cost-benefit-studies\" target=\"_blank\">this longer list</a> &#8212; which doesn&#8217;t even include every study.</p>\n<h2>Studies have shown &#8230;</h2>\n<p>So what do all these studies find? Are solar customers saddling their non-solar neighbors with extra costs?</p>\n<p><strong>In a word: No.</strong></p>\n<p>It turns out that <strong><a href=\"https://www.brookings.edu/research/rooftop-solar-net-metering-is-a-net-benefit/#\" target=\"_blank\">the economic benefits of net metering outweigh the costs</a></strong>. What&#8217;s more, there&#8217;s not even any significant cost increase for non-solar customers.</p>\n<p>What&#8217;s the cost of net metering? Well, the utility gets less money from solar customers to cover things like utility infrastructure costs.</p>\n<p>What are the economic benefits? A big one is <strong>savings on infrastructure</strong> (notice a connection to the cost I just mentioned?). When more people put solar their roofs, we don&#8217;t need as many transmission lines or other expensive utility infrastructure.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/NoPowerLines.png\"><img class=\"alignnone wp-image-3143\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/NoPowerLines.png\" alt=\"studies have shown\" width=\"600\" height=\"406\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/NoPowerLines.png 1664w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/NoPowerLines-300x203.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/NoPowerLines-768x520.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/NoPowerLines-1024x693.png 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/NoPowerLines-610x413.png 610w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<p>Another cost benefit is <strong>savings for utilities on meeting state renewables requirements</strong>. When they get solar from people&#8217;s roofs, the utilities don&#8217;t need to buy clean energy somewhere else.</p>\n<h2>The many benefits of solar</h2>\n<p>But the benefits of solar don&#8217;t end there. We think the benefits to everyone are clear:</p>\n<ul>\n<li><strong>An improved environment</strong>. An average-sized solar array <a href=\"http://newenglandcleanenergy.com/energymiser/2012/12/13/tree-math-solar-panels-vs-trees-whats-the-carbon-trade-off/\" target=\"_blank\" rel=\"nofollow\" data-href=\"http://newenglandcleanenergy.com/energymiser/2012/12/13/tree-math-solar-panels-vs-trees-whats-the-carbon-trade-off/\">prevents about 5,760 pounds of CO2 emissions</a> from entering the atmosphere each year. That’s like planting over two acres of trees.</li>\n<li><strong><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Sun-Doctor-6047145.jpg\"><img class=\"alignright wp-image-3130 size-medium\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Sun-Doctor-6047145-281x300.jpg\" alt=\"studies have shown\" width=\"281\" height=\"300\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Sun-Doctor-6047145-281x300.jpg 281w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Sun-Doctor-6047145-768x819.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Sun-Doctor-6047145-610x650.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Sun-Doctor-6047145.jpg 844w\" sizes=\"(max-width: 281px) 100vw, 281px\" /></a>Better public health — and savings</strong>. People around the world are getting sick from fossil fuel emissions. A <a href=\"http://mydomino.dreamhosters.com/how-solar-power-is-saving-lives-and-saving-money/\">recent study</a> showed that with just the solar installed in the U.S. by the end of 2014, we&#8217;d already prevented thousands of illnesses and deaths  — and saved $890 million.</li>\n<li><strong>Jobs</strong>. Solar jobs are growing about 12 times faster than the overall economy. Just last year, <a href=\"http://www.thesolarfoundation.org/national/\" target=\"_blank\" rel=\"nofollow\" data-href=\"http://www.pvsolarreport.com/solar-jobs-census-bright-future-solar/\">over 35,000 solar jobs</a> were created, bringing the total number to 208,859.</li>\n<li><strong>Water savings</strong>. Solar panels don’t use water to generate energy  —  <a href=\"http://mydomino.com/blog/can-solar-power-help-with-a-historic-drought/\" target=\"_blank\" rel=\"nofollow\" data-href=\"http://pvsolarreport.com/can-solar-power-help-california-water-woes/\">unlike dirty fossil fuels</a>. That’s a big deal in drought-prone areas.</li>\n<li><strong>National security and energy independence</strong>. It’s no accident that the <a href=\"http://www.renewableenergyworld.com/rea/news/article/2012/01/u-s-department-of-defense-takes-forceful-lead-as-early-adopters-of-solar-energy\" target=\"_blank\" rel=\"nofollow\" data-href=\"http://www.renewableenergyworld.com/rea/news/article/2012/01/u-s-department-of-defense-takes-forceful-lead-as-early-adopters-of-solar-energy\">Department of Defense</a> has been a solar leader for years. Generating our own power right here in America reduces our dependence on foreign energy sources. Plus, solar power on rooftops can help <a href=\"http://www.bloomberg.com/news/2013-04-23/rooftop-solar-seen-protecting-u-s-power-grid-from-attack.html\" target=\"_blank\" rel=\"nofollow\" data-href=\"http://www.bloomberg.com/news/2013-04-23/rooftop-solar-seen-protecting-u-s-power-grid-from-attack.html\">protect our power grid against attacks</a> .</li>\n</ul>\n<h2>Stop these endless studies!</h2>\n<p>By now, I hope you agree with me that the benefits of solar &#8212; for everyone &#8212; are obvious. It&#8217;s time to stop wasting time and money on <strong>study after study that shows the same thing, over and over</strong>.</p>\n<p>Instead, <strong>let&#8217;s focus on getting solar onto more roofs</strong>. That will benefit all of us!</p>\n<p>If you&#8217;d like to see if solar makes sense for your home and family, <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_StudiesHaveShown\" target=\"_blank\"><strong>contact a MyDomino energy savings concierge</strong></a>. Your concierge will get you the information you need, find you quotes from vetted installers &#8212; and have you on your way to solar savings in no time.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/BirthdaysAreGoodForYou-1.png\"><img class=\"alignnone wp-image-3127\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/BirthdaysAreGoodForYou-1.png\" alt=\"studies have shown\" width=\"600\" height=\"450\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/BirthdaysAreGoodForYou-1.png 2500w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/BirthdaysAreGoodForYou-1-300x225.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/BirthdaysAreGoodForYou-1-768x576.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/BirthdaysAreGoodForYou-1-1024x768.png 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/BirthdaysAreGoodForYou-1-610x458.png 610w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>We&#8217;ve all heard the phrase &#8220;Studies have shown &#8230;&#8221; Have you ever thought some of those studies seemed obvious? But when it comes to solar, what&#8217;s obvious?</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3122,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      4
+    ],
+    "tags": [
+      317,
+      21,
+      121,
+      666,
+      667
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Study-Education-Knowledge-Wisd-120473315.jpg",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3120"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3120"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3120/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3122"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3120"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3120"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3120"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 950,
+    "date": "2016-10-21T09:09:00",
+    "date_gmt": "2016-10-21T16:09:00",
+    "guid": {
+      "rendered": "http://www.mydomino.com/blog/?p=950"
+    },
+    "modified": "2016-10-21T10:58:10",
+    "modified_gmt": "2016-10-21T17:58:10",
+    "slug": "how-to-avoid-solar-scams",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/how-to-avoid-solar-scams/",
+    "title": {
+      "rendered": "How to Avoid Solar Scams"
+    },
+    "content": {
+      "rendered": "<p><strong>Home solar has <a href=\"http://mydomino.dreamhosters.com/rise-of-solar-power/\">come a long way very quickly</a>.</strong> So it was only a matter of time before <strong>solar scams</strong> started popping up.</p>\n<p>Solar is just like any other industry. The vast majority of residential solar companies are reputable and will help you save you money. But because solar is catching on so much, there are also a few scammers looking to take advantage of consumers.</p>\n<p>How do you spot them?</p>\n<p><!--more--></p>\n<h2>How solar scams happen</h2>\n<p>The<strong> most common solar scam involves luring you into paying a huge deposit</strong> to a contractor who doesn&#8217;t deliver the system.</p>\n<p>This is really no different from any other home improvement scam &#8212; like when a contractor promises to either “fix” your shingles or deliver an “effective” alarm system. <strong>In the case of solar, the scam artist may take off with your deposit or install a bogus system that doesn&#8217;t work.</strong> Before you know it, the contractor is nowhere to be found and you&#8217;re left with a leaky roof.</p>\n<p>This is no reason to shy away from home solar, though. Would you refuse to shore up your home&#8217;s foundation or fix your roof because you&#8217;re nervous about getting ripped off? Of course not.</p>\n<h2>How to avoid solar scams</h2>\n<p>The biggest thing going for these scammers is homeowners&#8217; lack of information.</p>\n<p>Admittedly, adding a rooftop solar system is more complicated than some home renovations. You probably don&#8217;t want to go out and research all of the ins and outs of how a solar system works &#8212; and that&#8217;s okay.</p>\n<p>But watch for a few<strong> red flags when you&#8217;re talking to a solar salesperson:</strong></p>\n<ul>\n<li>High-pressure sales tactics</li>\n<li>Overselling of the available tax credits</li>\n<li>Nobody actually checking your roof</li>\n</ul>\n<p>Essentially, if a salesperson shows you something that looks too good to be true, it probably is.</p>\n<p>It also helps to shop around a bit. Make sure to <strong>get at least two to three solar quotes from different energy companies.</strong> You can then <a href=\"http://www.mydomino.com/blog/how-to-compare-solar-quotes-in-4-easy-steps/\">compare the quotes</a> to determine your best option.</p>\n<p>Finally, make sure to vet any company you&#8217;re considering by checking online sources like Yelp and the <a href=\"http://www.bbb.org\" target=\"_blank\">Better Business Bureau</a>.</p>\n<h2>What the industry is doing to help</h2>\n<p>Most people who get into the solar industry do it because they want to make a positive impact on the world. People in solar want to ensure that the industry keeps doing the right thing &#8212; and that the public is protected.</p>\n<p>The main industry organization, the Solar Energy Industries Association (SEIA), takes this very seriously. SEIA is making <a href=\"http://www.seia.org/policy/consumer-protection\" target=\"_blank\">consumer protection</a> a major part of their work. That includes resources designed to safeguard your rights, a forum where anyone interested can get materials relevant to consumer protection, and guidelines for the solar industry to strengthen consumer protection.</p>\n<p>Reputable solar companies are doing everything they can to stop the scams. After all, they don&#8217;t want to tarnish the industry&#8217;s good reputation.</p>\n<h2>Let MyDomino help</h2>\n<p>If you <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_How_To_Avoid_Scams\" target=\"_blank\">go solar through MyDomino</a>, you can rest assured you won&#8217;t be the target of any solar scams. We&#8217;ve already vetted our installer partners, so you can be sure you&#8217;re in good hands.</p>\n<p>Plus, if you don&#8217;t have the time to do a lot of research, we can simplify the process by doing the legwork for you. Whether you&#8217;ve already gotten solar quotes or don&#8217;t even know if you&#8217;re a good candidate for solar, MyDomino is here to help.</p>\n<p>It all starts with seeing if solar is even a good fit for you. Your energy savings concierge will <strong>review your monthly electric costs and can even take a look at your roof online to see if it will work for solar</strong><strong>.</strong></p>\n<p>If you already have solar quotes, your concierge will go over them and help you decide which is the best option, without any pressure. If you don&#8217;t have quotes yet, your concierge will get them for you from reputable solar companies that you&#8217;ll know you can trust.</p>\n<p>With guidance from your energy savings concierge through the entire process, you can rest easy and know that you&#8217;re getting a good deal.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Solar&#8217;s seen rapid growth recently, which has unfortunately drawn scammers to the industry. Consumer knowledge is key to preventing scammers from succeeding, and MyDomino can help.</p>\n",
+      "protected": false
+    },
+    "author": 4,
+    "featured_media": 957,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      4
+    ],
+    "tags": [
+      203,
+      206,
+      204,
+      202,
+      21,
+      23,
+      205
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/08/solar-scam-e1439960760730.jpg",
+    "author_meta": {
+      "ID": "4",
+      "user_nicename": "brian",
+      "user_email": "brian@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:37:41",
+      "display_name": "Brian Vieweger",
+      "first_name": "Brian",
+      "last_name": "Vieweger"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/950"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/4"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=950"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/950/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/957"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=950"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=950"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=950"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3121,
+    "date": "2016-10-19T10:23:33",
+    "date_gmt": "2016-10-19T17:23:33",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3121"
+    },
+    "modified": "2016-10-19T14:57:56",
+    "modified_gmt": "2016-10-19T21:57:56",
+    "slug": "environmentally-friendly-halloween",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/environmentally-friendly-halloween/",
+    "title": {
+      "rendered": "Creating a More Environmentally Friendly Halloween"
+    },
+    "content": {
+      "rendered": "<p>Halloween is just around the corner! With it come all the joys of pumpkin carving, pumpkin seed baking, and pumpkin pie eating. Can you tell I&#8217;m rather fond of pumpkins?</p>\n<p>There&#8217;s a lot more to Halloween than just pumpkins, though. Today, Halloween has turned into a multi-billion-dollar holiday that can both be unhealthy and produce tons of waste. It doesn&#8217;t have to be this way. <!--more--></p>\n<p>You can make Halloween more environmentally friendly and a little more healthy for your family.</p>\n<p>Here are 5 easy things you can do to feel good about celebrating the holiday. For even more tips, <a href=\"http://www.healthygreensavvy.com/green-your-halloween-top-tips-from-eco-experts/\" target=\"_blank\">check out the Healthy Green Savvy blog.</a></p>\n<h2>1: Get creative with costumes</h2>\n<p>Instead of going to a costume store and buying a cheap plastic costume, consider putting one together yourself. Between what&#8217;s already in your closet and a neighborhood thrift store, there&#8217;s tons of great options for costumes.</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/11059647_10104269017666257_2234920987380668800_o.jpg\"><img class=\"alignleft wp-image-3131\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/11059647_10104269017666257_2234920987380668800_o-168x300.jpg\" alt=\"environmentally friendly Halloween\" width=\"190\" height=\"339\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/11059647_10104269017666257_2234920987380668800_o-168x300.jpg 168w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/11059647_10104269017666257_2234920987380668800_o-768x1370.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/11059647_10104269017666257_2234920987380668800_o-574x1024.jpg 574w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/11059647_10104269017666257_2234920987380668800_o-610x1088.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/11059647_10104269017666257_2234920987380668800_o.jpg 1148w\" sizes=\"(max-width: 190px) 100vw, 190px\" /></a></p>\n<p>Even if you don&#8217;t create an entire costume from scratch, you can greatly reduce the amount you buy when using clothes you already have.</p>\n<p>These minion costumes, for example, were mainly created with clothes we already had in our closets. And they look a lot better than anything you can buy!</p>\n<p>Another way to reduce waste with costumes is to re-purpose them. Instead of throwing away your costumes after the holidays are over, hold on to them. Who knows what kind of unique costume you can come up with by mixing and matching what you&#8217;ve already got.</p>\n<h2></h2>\n<h2>2: Light your house with LEDs</h2>\n<p>Are you one of those people who goes big with the decorating every Halloween? If so, swap our your mood lighting for LEDs. These days, <a href=\"http://mydomino.dreamhosters.com/concierges-change-light-bulb/\">LEDs come in all shapes, sizes, and colors</a> &#8212; so save some energy and money by switching over to them.</p>\n<h2>3: Make some yummy, healthy snacks</h2>\n<p>Everyone loves making jack-o-lanterns. Instead of throwing all the pumpkin &#8220;guts&#8221; out, keep them and toast the seeds for a delicious, healthy snack. You can also compost the fleshy interior to further reduce your waste.</p>\n<h2>4: Go for a walk</h2>\n<p>One of the best parts of Halloween is seeing everyone else&#8217;s amazing costumes. Instead of getting in the car to drive around the neighborhood, grab your LED flashlight and take a walk. Not only will you save money by not burning any gas, you&#8217;ll get you and your kids some exercise and burn off that sugar rush.</p>\n<div id=\"attachment_3134\" style=\"width: 610px\" class=\"wp-caption alignnone\"><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Happy-Hallowween-er.png\"><img class=\"wp-image-3134\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Happy-Hallowween-er-300x251.png\" alt=\"environmentally friendly Halloween\" width=\"600\" height=\"503\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Happy-Hallowween-er-300x251.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Happy-Hallowween-er-768x644.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Happy-Hallowween-er-610x511.png 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Happy-Hallowween-er-310x260.png 310w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Happy-Hallowween-er.png 940w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a><p class=\"wp-caption-text\">MyDomino dog Hobbes is ready for his Halloween walk!</p></div>\n<h2>5: Limit the candy intake</h2>\n<p>Speaking of sugar, to keep the holiday happy and healthy, limit how much candy you and your family eat that night. You don&#8217;t need to eliminate candy entirely, but set some healthy limits. For giving out candy, consider the above-mentioned healthy treats, or maybe some fair-trade chocolate.</p>\n<h2>Don&#8217;t feel bad for splurging a little</h2>\n<p>Halloween is meant to be a fun holiday for the whole family to enjoy. Don&#8217;t stress yourself out feeling like you need to do all these things before the big day. Just do what you can and have a fun day!</p>\n<p>After the day is done, check out the <a href=\"https://mydomino.com/\">MyDomino blog</a> for more ways you can save energy and money. Or <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_EnvironmentallyFriendlyHalloween\" target=\"_blank\">contact a MyDomino energy savings concierge</a> for personalized help on your path to a 100% clean energy lifestyle!</p>\n<p><a href=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Copy-of-Halloween-2015.png\"><img class=\"alignnone wp-image-3135\" src=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Copy-of-Halloween-2015.png\" alt=\"environmentally friendly Halloween\" width=\"700\" height=\"587\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Copy-of-Halloween-2015.png 940w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Copy-of-Halloween-2015-300x251.png 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Copy-of-Halloween-2015-768x644.png 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Copy-of-Halloween-2015-610x511.png 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/Copy-of-Halloween-2015-310x260.png 310w\" sizes=\"(max-width: 700px) 100vw, 700px\" /></a></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Halloween is a time for delicious treats and creative costumes. But it can also be wasteful. See how to make your holiday more environmentally friendly.</p>\n",
+      "protected": false
+    },
+    "author": 4,
+    "featured_media": 3132,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      7
+    ],
+    "tags": [
+      671,
+      672,
+      668,
+      673,
+      669,
+      68,
+      670
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-Halloween-Pumpkins-111039104.jpg",
+    "author_meta": {
+      "ID": "4",
+      "user_nicename": "brian",
+      "user_email": "brian@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:37:41",
+      "display_name": "Brian Vieweger",
+      "first_name": "Brian",
+      "last_name": "Vieweger"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3121"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/4"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3121"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3121/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3132"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3121"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3121"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3121"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3111,
+    "date": "2016-10-18T10:06:35",
+    "date_gmt": "2016-10-18T17:06:35",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3111"
+    },
+    "modified": "2016-10-19T10:29:21",
+    "modified_gmt": "2016-10-19T17:29:21",
+    "slug": "americans-love-solar",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/americans-love-solar/",
+    "title": {
+      "rendered": "How Much Do Americans Love Solar Power?"
+    },
+    "content": {
+      "rendered": "<p>All of us at MyDomino know how great solar is. It turns out, most of the public does too! A recent survey <a href=\"http://www.pewresearch.org/fact-tank/2016/10/05/americans-strongly-favor-expanding-solar-power-to-help-address-costs-and-environmental-concerns/\" target=\"_blank\">by the Pew Research Center</a> shows that 89% of all Americans believe that expanding the use of solar is a good idea.<!--more--></p>\n<p>The survey further found that although just 4% of homeowners throughout the country have solar, a full 40% have considered getting it in the last 12 months.</p>\n<h2>There&#8217;s lots to love about solar</h2>\n<p>Solar can help homeowners <a href=\"http://mydomino.dreamhosters.com/solar-costs-and-savings/\">save a lot money</a>, but solar has lots of other great benefits as well. For instance, studies have shown that a solar system can actually <a href=\"http://mydomino.dreamhosters.com/solar-home-values/\">increase a home&#8217;s value.</a> As people become more knowledgeable about solar, this trend will only continue.</p>\n<p>It may not be apparent, but <a href=\"http://mydomino.dreamhosters.com/can-solar-power-help-with-a-historic-drought/\">solar also helps save water</a>. Solar doesn&#8217;t require any water to create electricity. Most conventional power plants use large quantities of water to create steam and spin a turbine to make electricity. On the other hand, solar requires only a small amount of water to manufacture the panels.</p>\n<p>Solar also <a href=\"http://mydomino.dreamhosters.com/rise-of-solar-power/\">creates jobs</a>. Solar jobs grew over 20.2% from 2014, 12 times faster than the overall economy. As of November 2015, solar employed <a href=\"http://www.thesolarfoundation.org/national/\" target=\"_blank\">208,859 workers</a> &#8212; and this number has grown since then. That&#8217;s more than the coal and natural gas industries combined!</p>\n<p>If you&#8217;d like to learn even more great things about solar power, check out our <a href=\"http://mydomino.dreamhosters.com/10-things-we-love-about-solar/\">blog post on some of the top things we love about it.</a></p>\n<h2>Where people love solar the most</h2>\n<p>It turns out solar&#8217;s popularity isn&#8217;t evenly distributed throughout the country.</p>\n<p>The Pew survey shows that solar is more popular in the western half of the country. In the west, 52% of people have considered going solar, and 14% already have a solar system on their home. In the east, only 2% of respondents have solar, and 37% have seriously considered switching to it.</p>\n<p>California specifically is leading the country in rooftop solar, making up 40% of the market. Other big states include Arizona, which is ranked 3rd, and Hawaii, at number 6.</p>\n<p>It&#8217;s important to note that this is just a survey, and these numbers may not be completely accurate throughout the overall population.</p>\n<h2>Do you love solar?</h2>\n<p>What are your thoughts about solar? We&#8217;d love to hear what you think in the comments section below.</p>\n<p>If you&#8217;re curious to learn more about solar, and how it could benefit you, contact a <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_AmericansLoveSolar\" target=\"_blank\">MyDomino energy savings concierge.</a> Your concierge will help you see if solar makes sense for you and your family. If it does, they’ll guide you through the whole process of going solar — from getting quotes to financing your system to getting it installed.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Solar&#8217;s popularity has been growing throughout the country, but did you know a massive 89% of the population thinks we should have more of it?</p>\n",
+      "protected": false
+    },
+    "author": 4,
+    "featured_media": 3113,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      4
+    ],
+    "tags": [
+      24,
+      665,
+      508,
+      23
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-happy-family-having-fun-outdoo-18400505.jpg",
+    "author_meta": {
+      "ID": "4",
+      "user_nicename": "brian",
+      "user_email": "brian@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:37:41",
+      "display_name": "Brian Vieweger",
+      "first_name": "Brian",
+      "last_name": "Vieweger"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3111"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/4"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3111"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3111/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3113"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3111"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3111"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3111"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3078,
+    "date": "2016-10-17T10:20:45",
+    "date_gmt": "2016-10-17T17:20:45",
+    "guid": {
+      "rendered": "http://www.mydomino.com/blog/?p=1303"
+    },
+    "modified": "2016-10-26T14:38:00",
+    "modified_gmt": "2016-10-26T21:38:00",
+    "slug": "3-things-solar-installer-wont-tell",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/3-things-solar-installer-wont-tell/",
+    "title": {
+      "rendered": "3 Secrets Your Solar Installer Won&#8217;t Tell You"
+    },
+    "content": {
+      "rendered": "<p>So you&#8217;re going solar. You&#8217;re excited about generating free energy from the sun &#8212; as you should be!</p>\n<p>But <strong>is your solar installer telling you everything you need to know</strong>? To make your experience as good as possible, here are a few things you should know.</p>\n<p><!--more--></p>\n<h2>1. Your solar system won&#8217;t generate power all the time</h2>\n<p>You may already realize that solar won&#8217;t work at night &#8212; after all, there&#8217;s no sun shining on your panels then.</p>\n<p>But did you know that your panels won&#8217;t generate power at dawn or at dusk ? In fact, depending on where you live, you might get 5 &#8211; 8 hours of good solar power production each day.</p>\n<p>This image shows the average number of sunny hours a day in June, for different parts of the country:</p>\n<p><a href=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/10/average-radiation-june.jpg\"><img class=\"alignnone wp-image-1569 size-full\" src=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/10/average-radiation-june.jpg\" alt=\"average-radiation-june\" width=\"600\" height=\"391\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/average-radiation-june.jpg 600w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/average-radiation-june-300x196.jpg 300w\" sizes=\"(max-width: 600px) 100vw, 600px\" /></a></p>\n<p>The good news is that when you are generating power, you probably won&#8217;t need it all. The power you don&#8217;t need goes back to the grid. You get a credit for that power that you can use later, when your system is not generating power. This is known as <a href=\"http://mydomino.dreamhosters.com/how-solar-net-metering-works/\"><strong>net metering</strong></a>.</p>\n<p>Your solar installer will size your system so that it generates enough power for a good percentage of your overall energy needs.</p>\n<p>You should also know that your system won&#8217;t generate energy when the power goes out. For safety reasons, solar systems are made to shut off at those times. If your system is connected to a battery backup, you may be able to generate a small amount of power to run essentials like your refrigerator.</p>\n<h2>2. Not everything is covered by your solar installer</h2>\n<p>Your solar installer may tell you that you&#8217;re covered for any roof leaks caused by your solar system. That&#8217;s true. It&#8217;s important to be aware, however, that to be covered, leaks must really be caused by the solar installation. In most cases, that means they must be within 3 inches of any solar system roof penetrations.</p>\n<p>Solar panels last a long time. But the power they generate (DC) has to be converted into power your home can use (AC). That&#8217;s done by the inverter, which doesn&#8217;t last as long as the panels. Most inverters must be replaced after about 10 years &#8212; and guess how long the warranties last? So be prepared to replace the inverter around that time. Don&#8217;t worry! Inverters are a small expense compared to the whole system, so this will run you maybe a few thousand dollars. If your inverter needs replacing before then, of course, it will be covered. And I&#8217;ve seen them last longer sometimes.</p>\n<h2>3. You need a solid internet connection to monitor your system</h2>\n<p><a href=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/10/solarmonitoring.png\"><img class=\"alignright wp-image-1581\" src=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/10/solarmonitoring-170x300.png\" alt=\"solarmonitoring\" width=\"220\" height=\"387\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/solarmonitoring-170x300.png 170w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/solarmonitoring.png 367w\" sizes=\"(max-width: 220px) 100vw, 220px\" /></a>It&#8217;s important to know how your panels are functioning &#8212; plus, it&#8217;s just fun to keep track of your energy production. What your solar installer might not tell you, though, is that this requires a solid, uninterrupted internet connection. That means, for one, that you&#8217;ll want to keep your router on all the time if you want 24/7 monitoring.</p>\n<p>It&#8217;s also important for the inverter to be close enough to your router to pick up the signal. In some cases, it may be possible to hardwire your system to your router. Check with your solar installer to see if this will work for you.</p>\n<p>If your internet connection is interrupted, a technician from the solar company may have to come out and reset the monitoring system.</p>\n<p>A great option to ensure your system is monitored round the clock is to choose a company that does the monitoring for you. Since they have production guarantees, it&#8217;s in their best interest to ensure that your system produces as much as possible. Your <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_SolarInstallerWontTell\">MyDomino energy savings concierge</a> can tell you which companies provide this service.</p>\n<h2>We&#8217;ll tell you what you need to know</h2>\n<p>When you&#8217;re armed with the right knowledge, going solar is a great way to save energy and money.</p>\n<p>Solar installers are busy these days, and they may not get around to giving you all the information you need. Don&#8217;t worry &#8212; that&#8217;s where we come in! Our team of <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_SolarInstallerWontTell\">MyDomino energy savings concierges</a> is here to help keep you informed, and to answer any questions you may have.</p>\n<hr />\n<em>In the MyDomino Concierge Corner, our concierges give you their expert tips to save energy and money. Today, Amy Gorman explains a few things every homeowner should know about going solar.</em></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Is your solar installer telling you everything you need to know? A few key pieces of information will make your solar experience go more smoothly.</p>\n",
+      "protected": false
+    },
+    "author": 13,
+    "featured_media": 3116,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      4,
+      231,
+      3
+    ],
+    "tags": [
+      220,
+      250,
+      21,
+      248,
+      249,
+      23
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/ConciergeCornerSecretsSolarInstaller.png",
+    "author_meta": {
+      "ID": "13",
+      "user_nicename": "amy",
+      "user_email": "amy@mydomino.com",
+      "user_registered": "2015-09-30 18:23:50",
+      "display_name": "Amy Gorman",
+      "first_name": "Amy",
+      "last_name": "Gorman"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3078"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/13"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3078"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3078/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3116"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3078"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3078"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3078"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 559,
+    "date": "2016-10-14T10:05:09",
+    "date_gmt": "2016-10-14T17:05:09",
+    "guid": {
+      "rendered": "http://www.beyondfossilfuels.org/?p=559"
+    },
+    "modified": "2016-10-15T23:17:23",
+    "modified_gmt": "2016-10-16T06:17:23",
+    "slug": "4-ways-to-participate-in-solar-revolution",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/4-ways-to-participate-in-solar-revolution/",
+    "title": {
+      "rendered": "4 Ways You Can Participate in the Solar Revolution"
+    },
+    "content": {
+      "rendered": "<p dir=\"ltr\">“What?” you say — “I didn’t know a solar revolution was happening!” Well, 10 years ago would you have imagined getting rid of your land line? Or connecting with friends and businesses over Facebook and Twitter? Much like the way we communicate has changed, the way we get our energy is due for a big change too.<!--more--></p>\n<p dir=\"ltr\">Here are just a few ways you can be part of the solar revolution — whether or not you own your home. Pick one, sample two, or try all four!</p>\n<h2 dir=\"ltr\"><strong>1. Put solar on your roof</strong></h2>\n<p dir=\"ltr\">If you own your home, <strong>the best way to join the solar revolution is to put solar on your roof.</strong> More people than ever are going solar. And most solar installations are happening in <a href=\"http://mydomino.com/blog/solar-is-so-middle-class/\">middle-class neighborhoods</a>.</p>\n<p dir=\"ltr\">Why are some calling this the <a href=\"http://rooftoprevolution.tumblr.com/\" target=\"_blank\">Rooftop Revolution</a>? Solar is spreading fast for a few reasons:</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\">The <a href=\"http://mydomino.dreamhosters.com/cheap-solar-power-now/\">cost of solar has plummeted</a>. While conventional power prices keep going up, <a href=\"http://pvsolarreport.com/blog/item/951-ost-pv-cells-solar-power-grid-parity\">solar is 99% cheaper</a> than it was in 1977.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"http://mydomino.com/blog/lease-ppa-or-buy-oh-my/\">Financing options like leases</a> and <a href=\"http://mydomino.dreamhosters.com/how-do-solar-loans-work/\">solar loans</a> let you go solar with no money down and start saving on Day 1.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\">Solar lets you <a href=\"http://mydomino.com/blog/happy-energy-independence-day/\">take charge of your own power</a>.</p>\n</li>\n</ul>\n<p dir=\"ltr\">Wondering if solar is right for you? Now, it’s quick, easy, and simple to find out. Just <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_solar_revolution\" target=\"_blank\">contact a MyDomino energy savings concierge</a>. We’ll help you through the whole process so you can choose what’s right for your family.</p>\n<h2 dir=\"ltr\">2. Sign up for community solar</h2>\n<p>If you&#8217;re like many Americans, you may not be able to put solar panels on your own roof. Over <a href=\"http://mydomino.dreamhosters.com/cant-go-solar/\">75% of us</a> either rent, have a shaded roof, or don’t qualify for some other reason.</p>\n<p>But don’t worry! In many states, you can still get the energy freedom and savings that come with solar power — without putting any panels on your roof. You can do that with offsite solar, often known as shared solar or <strong><a href=\"http://mydomino.com/blog/cant-put-solar-panels-on-your-roof/\">community solar</a></strong>.<span id=\"more-146\"></span></p>\n<p>Here&#8217;s how it works:</p>\n<ul>\n<li>Solar panels are installed at another site, usually near where you live.</li>\n<li>You buy or subscribe to some of the solar panels that are installed at that site, and you use the power they generate for your home.</li>\n<li>You get a credit on your electricity bill for the power produced by your solar panels.</li>\n</ul>\n<p><a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_solar_revolution\" target=\"_blank\">Contact a MyDomino energy savings concierge </a>to see if community solar is available in your area. These days, there are even new community solar programs <a href=\"http://mydomino.dreamhosters.com/solar-savings-with-portable-panels/\">available nationwide</a>.</p>\n<h2 dir=\"ltr\"><strong>3. Invest in a solar project and get a good return</strong></h2>\n<p dir=\"ltr\">If you can’t go solar or participate in community solar — or if you can, but don’t want to stop there — investing in a solar project might be just the thing for you.</p>\n<p dir=\"ltr\">This is not the same as investing in a company’s stock. When you invest in a business, you can’t know how successful it will be. And the stock market is mysterious and volatile. <a href=\"http://mydomino.com/blog/5-reasons-solar-is-safe-investment/\">Investing in a solar project is safer</a>, and returns are pretty good, around 4.5 – 7%.</p>\n<p dir=\"ltr\">More companies are offering these investing opportunities. <a href=\"https://www.collectivesun.com/investors\" target=\"_blank\">Collective Sun</a> lets you invest in solar projects for nonprofits, with as little as $25. <a href=\"http://sunfunder.com/\" target=\"_blank\">SunFunder</a> lets accredited investors fund high-impact solar projects in off-grid communities around the world.</p>\n<p dir=\"ltr\">If you do want to invest in a business, <a href=\"https://www.cuttingedgecapital.com/\" target=\"_blank\">Cutting Edge Capital</a> provides a way for anyone to invest in local businesses, including solar companies.</p>\n<h2 dir=\"ltr\"><strong>4. Donate or volunteer for solar</strong></h2>\n<p dir=\"ltr\">If that&#8217;s still not enough solar for you, you can donate to groups like these or volunteer your time — which is a fun way to help while learning more about solar power:</p>\n<ul>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"http://www.gridalternatives.org/\" target=\"_blank\">GRID Alternatives</a>: Provides solar systems to low-income homeowners and on-the-job solar training.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"http://www.re-volv.org/\" target=\"_blank\">RE-volv</a>: Uses a revolving fund that keeps growing to put solar on community centers.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"http://www.everybodysolar.org/\" target=\"_blank\">Everybody Solar</a>: Helps nonprofits go solar so they can spend more of their funds serving their communities.</p>\n</li>\n<li dir=\"ltr\">\n<p dir=\"ltr\"><a href=\"http://sunwork.org/\" target=\"_blank\">SunWork</a>: Installs solar on small-energy-footprint homes with the help of trained volunteers.</p>\n</li>\n</ul>\n<p dir=\"ltr\">The great thing about helping out solar nonprofits is that this option is available to everyone — wherever you live, and whatever you can afford.</p>\n<p dir=\"ltr\"><em>Image: Union of Concerned Scientists</em></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Solar is growing faster than anyone expected. Want to be part of this revolution? Here are some easy ways you can participate.</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 563,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      4
+    ],
+    "tags": [
+      39,
+      144,
+      142,
+      141,
+      143,
+      21,
+      23,
+      34,
+      146,
+      145
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/07/SolarCheaperGrid.png",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/559"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=559"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/559/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/563"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=559"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=559"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=559"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 774,
+    "date": "2016-10-13T10:18:03",
+    "date_gmt": "2016-10-13T17:18:03",
+    "guid": {
+      "rendered": "http://www.beyondfossilfuels.org/?p=774"
+    },
+    "modified": "2016-10-07T15:29:28",
+    "modified_gmt": "2016-10-07T22:29:28",
+    "slug": "what-kind-of-heat-pump-should-you-get",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/what-kind-of-heat-pump-should-you-get/",
+    "title": {
+      "rendered": "The Best Way to Heat and Cool Your Home"
+    },
+    "content": {
+      "rendered": "<p>Updated 10/13/16</p>\n<p>Did you know that heating is the largest home energy bill for most Americans? Or that it produces more carbon emissions than any other residential activity?</p>\n<p>With winter fast approaching, it might be time to rethink how you heat your home.<!--more--></p>\n<h2>Upgrading to a heat pump</h2>\n<p>This is a great time to <strong>consider a <a href=\"http://mydomino.com/blog/what-the-heck-is-a-heat-pump/\">modern heat pump</a></strong>. The beauty of this device is that it acts as both your heater and your air conditioner.</p>\n<p>As if that weren&#8217;t enough, <strong>a heat pump is also more efficient than a traditional furnace</strong>. That’s because it doesn’t actually create heat — it just moves heat around. To cool your home, it moves heat from inside your home to the outside. To heat your home, it does the opposite and moves heat into your home.</p>\n<p>With a heat pump, your home is also likely to be more comfortable, because it will be heated and cooled more evenly. And a heat pump can last over 25 years, so you won’t need to worry about replacing it anytime soon.</p>\n<p>Given all the benefits of heat pumps, it&#8217;s not surprising that their sales have risen dramatically in recent years. In Europe, the heat pump market <a href=\"http://www.sunwindenergy.com/heat-pumps/heat-pumps-rise\" target=\"_blank\">grew by 10% just in 2015</a>. From 2012 to 2014, heat pump sales <a href=\"https://www.bostonglobe.com/business/2014/10/05/new-heat-pump-technology-can-warm-homes-even-cold-new-england-winters/JgABf7wNFqRcYI6YVN6nsI/story.html\" target=\"_blank\">increased by 30%</a> in the U.S.</p>\n<h2>Why we need heat pumps</h2>\n<p>Solar power and electric cars are great! They&#8217;ll go a long way toward helping us get off dirty fossil fuels and onto clean, renewable energy.</p>\n<p>But we can&#8217;t get all the way there if we don&#8217;t <strong>change how we heat our homes</strong>.</p>\n<p>It&#8217;s not a matter of waiting for some new, futuristic technology to come along and save us. We have the tools we need already &#8212; and the heat pump is an important one. As energy journalist David Roberts <a href=\"http://www.vox.com/2016/10/5/13165262/heat-pumps-boring-but-important\" target=\"_blank\">pointed out recently</a>, it will take this kind of &#8220;unsexy&#8221; technology to get us all the way to 100% clean energy.</p>\n<h2>Two kinds of heat pumps</h2>\n<p>So now you&#8217;re convinced that heat pumps are the way to go. But there&#8217;s one more thing to consider. You can choose between these two kinds of heat pumps:</p>\n<ul>\n<li><strong>Air-source:</strong> Moves heat through the air. The unit is similar to a central air conditioner and can even be the same piece of equipment.</li>\n<li><strong>Geothermal:</strong> Moves heat to and from the ground. Requires drilling into the ground to install.</li>\n</ul>\n<p>Both kinds are popular. As many as 50,000 American homes are switching to geothermal each year, and <a href=\"http://mydomino.dreamhosters.com/air-source-heat-pumps-gaining-traction/\">air-source heat pumps are starting to gain on them</a>.</p>\n<h2>Comparing your options</h2>\n<p>Which heat pump is right for you? That depends how much you&#8217;re comfortable spending upfront, whether you&#8217;re okay with having a hole drilled on your property, and what climate you live in. Here&#8217;s a quick reference to compare your options:</p>\n<table border=\"1\" width=\"672\">\n<tbody>\n<tr>\n<th></th>\n<th valign=\"top\">Geothermal</th>\n<th valign=\"top\">Air-Source</th>\n</tr>\n<tr>\n<td valign=\"top\"><strong>Pros</strong></td>\n<td valign=\"top\">\n<ul>\n<li>Even more efficient than an air-source heat pump, and works well in very cold climates.</li>\n<li>Qualifies for 30% tax credit.</li>\n<li>Can save you up to 70% on your energy bill each month.</li>\n</ul>\n</td>\n<td valign=\"top\">\n<ul>\n<li>More efficient than traditional AC and furnace.</li>\n<li>Much cheaper than a geothermal heat pump.</li>\n</ul>\n</td>\n</tr>\n<tr>\n<td valign=\"top\"><strong>Cons</strong></td>\n<td valign=\"top\">\n<ul>\n<li>Much more expensive than an air-source heat pump.</li>\n<li>Involves some drilling into the ground.</li>\n</ul>\n</td>\n<td valign=\"top\">\n<ul>\n<li>More expensive than a traditional furnace.</li>\n<li>Less efficient than geothermal.</li>\n<li>May not work as well in extremely cold climates, where you may even need a backup heat source.</li>\n</ul>\n</td>\n</tr>\n</tbody>\n</table>\n<p>As you can see, <strong>both types of heat pump are more efficient than a traditional furnace</strong>. And you&#8217;ll save money and energy with both. If you power either one with solar, you&#8217;ll save even more.</p>\n<h2>Making the choice</h2>\n<p>Now that you have an idea of the pros and cons of each kind of heat pump, you can decide which is right for you. And you can get more details by talking with a <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_best_way_to_heat_cool\">MyDomino energy savings concierge</a>. Your concierge will review your unique situation and help you choose the right system for your home and family.</p>\n<p><em>Image source: Phillip Island Nature Parks Facebook</em></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>To save on energy costs, more Americans are switching to a modern, efficient heat pump for both heating and cooling. Which kind is right for you?</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 2934,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      6
+    ],
+    "tags": [
+      184,
+      186,
+      182,
+      183,
+      181,
+      185
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/08/bigstock-Happy-young-woman-is-relaxing-105254501.jpg",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/774"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=774"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/774/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/2934"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=774"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=774"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=774"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1484,
+    "date": "2016-10-12T10:03:42",
+    "date_gmt": "2016-10-12T17:03:42",
+    "guid": {
+      "rendered": "http://www.mydomino.com/blog/?p=1484"
+    },
+    "modified": "2016-10-07T14:41:22",
+    "modified_gmt": "2016-10-07T21:41:22",
+    "slug": "green-apartment-rent",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/green-apartment-rent/",
+    "title": {
+      "rendered": "MyDomino Guide to Green Renting"
+    },
+    "content": {
+      "rendered": "<p>Updated 10/12/16</p>\n<p>Making Earth-friendly home upgrades is one of the most impactful ways to fight climate change. However, at least 37% of U.S. households are occupied by renters. So how can you make a difference if you aren’t a homeowner?</p>\n<p><!--more--></p>\n<p>Have no fear &#8212; there are lots of non-permanent solutions for green apartments and rentals!</p>\n<h2>Choose a green apartment or rental</h2>\n<p>To make a big impact, look for these qualities in your next rental.</p>\n<ul>\n<li><strong>Location, location, location.</strong> Reduce car commuting by living close to destinations you’ll be frequenting often. This will dramatically decrease your carbon footprint. Being near good <a href=\"http://mydomino.dreamhosters.com/greenhouse-gas-reduction-benefits-of-biking/\">bike lanes</a> is a plus.</li>\n<li><strong>Sustainable design.</strong> Natural light, <a href=\"http://energy.gov/energysaver/articles/energy-efficient-windows\" target=\"_blank\">efficient windows</a>, and <a href=\"http://energy.gov/energysaver/articles/passive-solar-home-design\" target=\"_blank\">passive solar design</a> are desirable qualities. Beyond that, be sure to ask the landlord what other sustainable features the rental offers. The more these questions are asked, the more likely landlords will consider upgrading to keep up with demand.</li>\n</ul>\n<h2>Go solar &#8212; with nothing on your roof</h2>\n<p>If you live in a region that offers <a href=\"http://www.mydomino.com/blog/community-solar-popular/\" target=\"_blank\">community solar</a>, you can get solar power from panels installed somewhere other than your own roof.</p>\n<p>But don&#8217;t worry &#8212; if your area doesn&#8217;t support community solar, you have other options.</p>\n<p>Do you pay a power bill? If so, you can probably sign up for a <a href=\"http://mydomino.dreamhosters.com/clean-power-plan-for-everyone/\" target=\"_blank\">clean power plan</a>. That lets you get solar or wind power through your regular utility bill.</p>\n<p>Both are great options for renters, and you can usually keep your community solar or clean power option if you move within the same utility area.</p>\n<p>Your <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_GreenRent\" target=\"_blank\">MyDomino energy savings concierge</a> can tell you if these options are available for you, and help you sign up.</p>\n<h2>Make budget-friendly upgrades</h2>\n<p>Though many permanent upgrades to homes can have a big impact, those are usually not possible for renters. However, as a renter you have many smaller, simpler daily options that may make more of a difference than you think.</p>\n<ul>\n<li><strong>Temporarily improve fixtures.</strong> You don’t have to invest in permanent solutions – you can install <a href=\"http://www.mydomino.com/blog/how-many-peiple-light-bulb/\" target=\"_blank\">LED light bulbs</a> and use <a href=\"http://www.mydomino.com/blog/smarten-your-home-with-power-strips/\" target=\"_blank\">smart power strips</a>, which you’ll take with you when you move. Consider turning down your water heater temperature and placing reflective foil behind your radiators. In some cases, you may even be able to temporarily install a <a href=\"http://www.mydomino.com/blog/nervous-about-getting-a-nest/\" target=\"_blank\">smart thermostat</a>.</li>\n<li><strong>Temperature control.</strong> Program your thermostat to make temperature regulation easier. Save energy in the winter by setting the thermostat to 68 F while you’re awake and dialing it back 10-15 degrees while you are asleep. In the summer, set your thermostat to 78 F when you are at home and need cooling, and turn up 10-15 degrees for while you&#8217;re away.</li>\n<li><strong>Reduce leaks.</strong> Leaks waste resources, so make sure to hunt them down and deal with them. If your home is drafty, install weather stripping around doors. If you have leaky pipes, call your landlord.</li>\n</ul>\n<h2>Talk to your landlord</h2>\n<p>Another thing you can do is promptly bring issues to your landlords’ attention. It can be intimidating, but remember that you are their customer.</p>\n<p>So don’t let leaky faucets, running toilets, poor insulation, and inefficient heating or cooling systems slide off the radar. As the tenant paying the bills, these issues cost you money while harming the planet. Keeping the house properly maintained helps the landlord retain tenants, so it’s mutually beneficial to bring issues to their attention.</p>\n<p>Finally, don&#8217;t be afraid to approach your landlord about <a href=\"http://luminalt.com/2013/08/12/how-renters-can-go-solar/\" target=\"_blank\">installing solar</a> or making other permanent upgrades. If you’re ambitious, show them how these types of upgrades will <a href=\"http://mydomino.dreamhosters.com/want-to-increase-your-homes-value/\">increase their property value</a>.</p>\n<h2>Want to do more?</h2>\n<p>Interested in seeing what other actions you can take toward a clean-energy future? Talk to a <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_GreenRent\" target=\"_blank\">MyDomino energy savings concierge</a> today! Your concierge will show you which options are available to you.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Think you can&#8217;t go green if you rent? You have plenty of options for sustainable living, even if you don&#8217;t own your home.</p>\n",
+      "protected": false
+    },
+    "author": 14,
+    "featured_media": 1486,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      7,
+      1
+    ],
+    "tags": [
+      149,
+      243,
+      244,
+      242,
+      393
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/EasyThumbsUp_reduced.png",
+    "author_meta": {
+      "ID": "14",
+      "user_nicename": "eva",
+      "user_email": "eva@mydomino.com",
+      "user_registered": "2015-10-01 23:37:39",
+      "display_name": "Eva Roethler",
+      "first_name": "Eva",
+      "last_name": "Roethler"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/1484"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/14"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=1484"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/1484/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/1486"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=1484"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=1484"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=1484"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3076,
+    "date": "2016-10-11T09:56:55",
+    "date_gmt": "2016-10-11T16:56:55",
+    "guid": {
+      "rendered": "http://www.beyondfossilfuels.org/?p=212"
+    },
+    "modified": "2016-10-15T23:15:48",
+    "modified_gmt": "2016-10-16T06:15:48",
+    "slug": "4-easy-ways-to-save-on-your-electric-bill-each-month",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/4-easy-ways-to-save-on-your-electric-bill-each-month/",
+    "title": {
+      "rendered": "4 Easy Ways to Save on Your Electric Bill Each Month"
+    },
+    "content": {
+      "rendered": "<p>Do you want to save money on your electric bill? You may have already checked out our post on <a href=\"http://mydomino.com/blog/6-free-ways-to-save-money-and-energy/\">free ways to save money and energy</a>. That&#8217;s a good start. But why stop there? If you&#8217;d like to go a step further, consider spending just a little time and money — to save big in the long run.</p>\n<p>These easy upgrades will pay for themselves quickly and help you further reduce your energy use.<!--more--></p>\n<h2><strong>1. Upgrade to LED light bulbs</strong></h2>\n<p>If you&#8217;re still using traditional incandescent light bulbs that you need to replace every 6 months, consider <a href=\"http://www.amazon.com/gp/search?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;keywords=LED%20light%20bulb&amp;linkCode=ur2&amp;tag=domino09d-20&amp;linkId=A37WXDUULB3DHTVZ\" target=\"_blank\">switching to LEDs</a>. LEDs used to be very expensive, but they <a href=\"http://cleantechnica.com/2013/03/06/cree-breaks-10-low-cost-led-bulb-barrier/\" target=\"_blank\">broke the $10 price barrier</a> a while back now, and they just keep <a href=\"http://cleantechnica.com/2014/10/28/lush-low-cost-led-light-bulbs-cree-below-10/\" target=\"_blank\">coming down in price</a>. In fact, if you switch your entire house to LEDs, you could <a href=\"http://mydomino.com/blog/how-many-peiple-light-bulb/\">save up to $7000 over 20 years</a>.</p>\n<p>The exact amount you&#8217;ll save depends on the price of energy where you live, and where you get your power. What&#8217;s certain is that upgrading to LEDs is one of the easiest ways to save energy and money. You can save even more if you also switch to <a href=\"http://mydomino.dreamhosters.com/solar-101/\">clean solar power</a>, but for now we&#8217;re focusing on smaller actions you can take.</p>\n<p>To make the switch really easy, just replace your old bulbs as they burn out. Before you know it, your whole house will be lit with LEDs, and you won&#8217;t need to change a bulb for over 20 years.</p>\n<h2><strong>2. Smarten up your thermostat</strong></h2>\n<p>You could save up to $150 each year simply by switching your old-fashioned thermostat to a <a href=\"http://www.amazon.com/gp/search?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;keywords=smart%20thermostat&amp;linkCode=ur2&amp;tag=domino09d-20&amp;linkId=WQ35VUNEYLMBIGPJ\" target=\"_blank\">new smart one</a>. (Again, exact savings depend on where you live and a few other factors.)</p>\n<p>Smart thermostats do the work of constantly adjusting the temperature in your house — so you don&#8217;t have to. By learning your schedule and preferences, <a href=\"http://mydomino.com/blog/dont-let-your-thermostat-control-you/\">smart thermostats keep you comfortable</a> while saving you energy. You can even control and monitor your thermostat from a smartphone.</p>\n<h2><strong>3. Avoid energy vampires</strong></h2>\n<p>You may have heard of <a href=\"http://mydomino.com/blog/how-you-can-save-over-100-a-year-in-5-minutes/\">vampire power</a>. But did you know that electronics, especially older ones, are always drawing power — even when they&#8217;re turned off? By unplugging less-used devices, you drop this power draw to zero.</p>\n<p>You don&#8217;t have to remember to turn off your devices and appliances when you&#8217;re not using them. You can simply cluster them into a <a href=\"http://www.amazon.com/s/ref=sr_st_relevancerank?keywords=smart+power+strip&amp;fst=as%3Aoff&amp;rh=n%3A172282%2Cn%3A541966%2Cn%3A172456%2Cn%3A761520%2Ck%3Asmart+power+strip&amp;qid=1433291532&amp;sort=relevancerank\">smart power strip</a>, which will automatically power off your electronics when not in use.</p>\n<h2><strong>4. Lower the flow to save some H2O</strong></h2>\n<p>Whether or not you live in a drought-stricken area like California, it&#8217;s a good idea to conserve water when you can. <a href=\"http://www.hgtv.com/design/rooms/bathrooms/the-lowdown-on-low-flow-toilets\" target=\"_blank\">Low-flow toilets</a> use much less water than their older counterparts and work just as well. Adding a <a href=\"http://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;keywords=low%20flow%20showerhead&amp;linkCode=ur2&amp;tag=domino09d-20&amp;linkId=QKOKENTZFRXOIDFK\" target=\"_blank\">low-flow showerhead</a> will further reduce your water use. You&#8217;ll save money, and with less water being heated for your shower, you&#8217;ll save energy too.</p>\n<h2>That wasn&#8217;t so hard, was it?</h2>\n<p>All of these upgrades are easy and don&#8217;t require you to change your lifestyle. They may cost a little upfront, but they&#8217;ll pay for themselves quickly because of the money you&#8217;ll save.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>With these easy, inexpensive upgrades, you can take your energy and dollar savings to the next level. </p>\n",
+      "protected": false
+    },
+    "author": 4,
+    "featured_media": 213,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      3,
+      7
+    ],
+    "tags": [
+      102,
+      103,
+      29,
+      76,
+      31,
+      87
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/06/led-bulb-e1433890756925.jpg",
+    "author_meta": {
+      "ID": "4",
+      "user_nicename": "brian",
+      "user_email": "brian@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:37:41",
+      "display_name": "Brian Vieweger",
+      "first_name": "Brian",
+      "last_name": "Vieweger"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3076"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/4"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3076"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3076/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/213"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3076"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3076"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3076"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3106,
+    "date": "2016-10-10T10:00:57",
+    "date_gmt": "2016-10-10T17:00:57",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3106"
+    },
+    "modified": "2016-10-07T14:05:38",
+    "modified_gmt": "2016-10-07T21:05:38",
+    "slug": "indigenous-peoples-day",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/indigenous-peoples-day/",
+    "title": {
+      "rendered": "Why We Think of Solar Power on Indigenous People&#8217;s Day"
+    },
+    "content": {
+      "rendered": "<p>Today is Indigenous People&#8217;s Day.</p>\n<p>This day is still called Columbus Day in much of the U.S. You might think of it as a holiday. Or maybe it&#8217;s a day to <a href=\"http://www.aol.com/article/lifestyle/2016/10/06/columbus-day-sales-are-everywhere-already/21576050/\" target=\"_blank\">shop for sales</a>. Some cities even <a href=\"http://www.philly.com/philly/blogs/in-transit/Columbus-Day-Parade-festivals-and-beer-run-to-close-city-streets-this-weekend.html\" target=\"_blank\">celebrate it with parades</a>.</p>\n<p>At MyDomino, we think this is a great day to focus on indigenous people &#8212; and clean energy.<!--more--></p>\n<h2>Native Americans as solar trailblazers</h2>\n<p>Why is that? Because, as it turns out, Native Americans are becoming big adopters of solar energy.</p>\n<p>This is nothing new. Back in 2013, Native Americans were <a href=\"https://www.theguardian.com/sustainable-business/blog/native-american-tribes-solar-power\" target=\"_blank\">already considered solar trailblazers</a>. Some had even been <a href=\"http://www.csmonitor.com/Environment/Energy-Voices/2014/0701/How-some-Native-Americans-are-embracing-renewable-energy\">installing solar since 1987</a>.</p>\n<p>It makes a lot of sense. Many Native tribes, especially in western states, live in sunny areas. They also tend to have high unemployment rates and high energy costs. Some of them aren&#8217;t even connected to an electric grid at all.</p>\n<p>Solar power can help with all these issues.</p>\n<h2>Clean, affordable electricity</h2>\n<p>It&#8217;s no secret to anyone reading this blog that the <a href=\"http://mydomino.dreamhosters.com/cheap-solar-power-now/\">cost of solar has been plummeting</a>. That makes it a great option for people with low incomes and high power costs.</p>\n<p>But that&#8217;s not the only reason solar is a great fit for tribal nations.</p>\n<p>Did you know that thousands of Native Americans have <a href=\"http://www.npr.org/2015/04/21/401000427/solar-power-makes-electricity-more-accessible-on-navajo-reservation\" target=\"_blank\">no electricity in their homes</a>? That&#8217;s right &#8212; people right here in the U.S. are living without something that most of us take for granted.</p>\n<p>It&#8217;s extremely expensive to build new power lines, so that keeps more electricity from coming to these low-income areas. Solar power with battery storage, or operating in a micro-grid, is made to order!</p>\n<p>Add to that the fact that reservations have for years been dumping grounds for nuclear and other toxic waste &#8212; and clean solar power becomes even more appealing.</p>\n<h2>Solar jobs</h2>\n<p>Solar installations can also bring much-needed jobs to tribal lands. As the <a href=\"http://mydomino.dreamhosters.com/rise-of-solar-power/\">fastest-growing industry</a> in the country (growing <a href=\"http://www.citylab.com/work/2016/01/solar-job-growth-american-economy-marco-rubio/424035/\" target=\"_blank\">12 times faster</a> than the rest of the economy), solar is a proven job creator.</p>\n<p>As more solar is installed, more local jobs are created. And some of the programs bringing solar to reservations are also providing job training.</p>\n<p>GRID Alternatives, a nonprofit that makes clean energy accessible to underserved communities, runs a <a href=\"http://www.gridalternatives.org/programs/tribal-program\" target=\"_blank\">Tribal Program</a> that installs solar for tribal member families and also trains tribal members in solar installation. GRID Alternatives also started a <a href=\"http://www.pvsolarreport.com/grid-alternatives-and-wells-fargo-team-up-for-veterans/\" target=\"_blank\">Native American Veterans Initiative</a>. This program brings solar and job training to a population that serves in the military at a higher per capita rate than any other ethnic group in the country.</p>\n<p>Another nonprofit, Solar Energy International, runs a <a href=\"http://www.solarenergy.org/native-american-communities/\" target=\"_blank\">Native American Communities Outreach Program</a>. Their program helps Native Americans with clean energy, and also trains people from a number of tribes in clean energy technologies.</p>\n<h2>A win-win</h2>\n<p>Accessible clean energy, electric bill savings, jobs &#8212; it all adds up to a big win for Native Americans. And clean solar power helps all of us by keeping our air and water cleaner, too. That has <a href=\"http://mydomino.dreamhosters.com/how-solar-power-is-saving-lives-and-saving-money/\">huge health benefits</a> for our families and our communities &#8212; health benefits that also translate to dollar savings.</p>\n<p>So on this Indigenous People&#8217;s Day, let&#8217;s celebrate that solar is coming to more people. It&#8217;s only fitting that it should be available to the first people who inhabited our country.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>On this Indigenous People&#8217;s Day, we look at how Native Americans are becoming big solar adopters.</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3107,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      4
+    ],
+    "tags": [
+      142,
+      662,
+      663,
+      664,
+      26,
+      505
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/IndigenousPeoplesDay.png",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3106"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3106"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3106/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3107"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3106"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3106"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3106"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3097,
+    "date": "2016-10-07T10:15:01",
+    "date_gmt": "2016-10-07T17:15:01",
+    "guid": {
+      "rendered": "http://mydomino.dreamhosters.com/?p=3097"
+    },
+    "modified": "2016-10-06T17:18:49",
+    "modified_gmt": "2016-10-07T00:18:49",
+    "slug": "campus-sustainability-month",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/campus-sustainability-month/",
+    "title": {
+      "rendered": "How Campuses Are Promoting Sustainability this Month"
+    },
+    "content": {
+      "rendered": "<p>In case you haven&#8217;t heard, October is <a href=\"http://www.aashe.org/campus-sustainability-month/\" target=\"_blank\">Campus Sustainability Month</a>. It&#8217;s not-so-coincidentally timed alongside <a href=\"http://mydomino.dreamhosters.com/energy-awareness-month/\">National Energy Awareness Month</a>.</p>\n<p>For the month of October, colleges across the country are hosting events to promote sustainability on campus and beyond. The events are targeted to incoming students and are meant to inspire them to become leaders in sustainability.</p>\n<h2>What can you do as a student?</h2>\n<p>Are you a student? If so, you might not be able to make the switch to solar &#8212; but there&#8217;s still plenty of things you <strong>can</strong> do.</p>\n<p>For example, <a href=\"http://mydomino.dreamhosters.com/smarten-your-home-with-power-strips/\">adding a smart power strip</a> to your electronics will ensure you&#8217;re not wasting power when your devices are switched off.</p>\n<p>Swapping out incandescent light bulbs with more efficient <a href=\"http://mydomino.dreamhosters.com/leds-vs-cfls/\">LED light bulbs</a> will save you even more energy. Plus, you won&#8217;t need to change the bulbs throughout the year. You can even take them with you at the end of the year and use them in your new place!</p>\n<p>Sustainability isn&#8217;t just about saving energy. Choosing what you eat can actually have a big impact on our world. This is an easy way for you to do your part. By <a href=\"http://mydomino.dreamhosters.com/whats-the-best-way-to-eat/\">reducing the amount of meat</a> you eat, you can up your sustainability impact. And <a href=\"http://mydomino.dreamhosters.com/10-tips-to-reduce-food-waste/\">minimizing your food waste</a> can make sure good food doesn&#8217;t end up rotting in a landfill. This is one time a student&#8217;s big stomach can actually come in handy!</p>\n<h2>What can your family do?</h2>\n<p>Even if you can&#8217;t go solar, your parents might be able to. By learning about the benefits of solar, you can help educate your family about it. Family members who&#8217;ve never given solar any thought may end up becoming enthusiasts.</p>\n<p>That said, we don&#8217;t expect you to become a solar expert &#8212; although it would be great if you did!</p>\n<p>If your family members are intrigued by solar and want to learn more, they can read up about it in our <a href=\"http://mydomino.dreamhosters.com/solar-101/\">Solar 101</a>. It goes through all of the aspects of a solar system and things to consider when making the switch.</p>\n<p>People in your family can also contact a <a href=\"https://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_CampusSustainabilityMonth\">MyDomino energy savings concierge</a>. Their concierge can answer any questions they have and help them determine is solar is right for them.</p>\n<p>And if solar won&#8217;t work for them, a <a href=\"http://mydomino.dreamhosters.com/clean-power-plan-for-everyone/\">clean power plan</a> may be an excellent option to clean up their energy. It could even be a good option for you, if you&#8217;re a student living off-campus and paying a power bill!</p>\n<h2>Learn more about Campus Sustainability Month</h2>\n<p>Not every college is hosting events for Campus Sustainability Month. If you&#8217;d like to find out if a school near you is hosting one, check out <a href=\"http://www.aashe.org/campus-sustainability-month/\" target=\"_blank\">aashe.org</a>. They&#8217;ve got a full list of participating colleges, plus the specific events that will be taking place at each school.</p>\n<p>If there isn&#8217;t a participating school near you, don&#8217;t worry. Check out our other articles here on the <a href=\"http://mydomino.dreamhosters.com/\">MyDomino blog</a>. We have lots of great content that can help you boost your sustainability game!</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>This October is Campus Sustainability Month. Find out what schools are doing to encourage students to think about sustainability.</p>\n",
+      "protected": false
+    },
+    "author": 4,
+    "featured_media": 3103,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      7
+    ],
+    "tags": [
+      656,
+      659,
+      661,
+      657,
+      658,
+      660
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/10/bigstock-group-of-college-students-outd-13618103.jpg",
+    "author_meta": {
+      "ID": "4",
+      "user_nicename": "brian",
+      "user_email": "brian@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:37:41",
+      "display_name": "Brian Vieweger",
+      "first_name": "Brian",
+      "last_name": "Vieweger"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3097"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/4"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3097"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3097/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3103"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3097"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3097"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3097"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3079,
+    "date": "2016-10-06T10:26:55",
+    "date_gmt": "2016-10-06T17:26:55",
+    "guid": {
+      "rendered": "http://www.mydomino.com/blog/?p=1591"
+    },
+    "modified": "2016-10-19T14:48:00",
+    "modified_gmt": "2016-10-19T21:48:00",
+    "slug": "energy-awareness-month",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/energy-awareness-month/",
+    "title": {
+      "rendered": "What Are You Doing for Energy Awareness Month?"
+    },
+    "content": {
+      "rendered": "<p>You may not know it, but October is <strong><a href=\"https://www.whitehouse.gov/issues/national-energy-awareness-month\" target=\"_blank\">National Energy Awareness Month</a></strong>. It&#8217;s a time to give energy the credit it deserves!</p>\n<p>Most of us rarely think about energy, yet we rely on it every single day. <strong>Imagine not having energy in your life</strong>. You wouldn&#8217;t be able to drink your morning coffee, take your hot shower — or even read this blog post. And that&#8217;s just for starters.<!--more--></p>\n<p>At MyDomino, energy is what we’re all about — clean energy and saving energy, that is. And guess what: both of those can <strong>save you big bucks</strong>. It’s a win-win-win!</p>\n<h2>Where do you start?</h2>\n<p>You might be thinking, &#8220;This sounds like a good idea, but where do I even begin?&#8221; As the Energy Awareness Month name suggests, the first step is awareness.</p>\n<p>Most of us really aren&#8217;t aware of all our energy consumption. We turn on the lights and use our appliances, but we don&#8217;t think much about where the power comes from, or how much of it we&#8217;re using.</p>\n<p>Did you know, for example, that if your home is like the average American’s, you could be <a href=\"http://www.mydomino.com/blog/how-you-can-save-over-100-a-year-in-5-minutes/\">wasting as much energy each day</a> as it would take to brew <strong>234 cups of coffee? </strong>That&#8217;s right, each day. And that&#8217;s just the beginning.</p>\n<p>So, being aware of the energy drains in your home is a good first step. You can start by finding out how much power your electronics and appliances are using in the first place. To do this, you might want to try out the <a href=\"http://www.amazon.com/P3-P4400-Electricity-Usage-Monitor/dp/B00009MDBU/ref=sr_1_1?ie=UTF8&amp;qid=1444071956&amp;sr=8-1&amp;keywords=P3+P4400+Kill+A+Watt+Electricity+Usage+Monitor\" target=\"_blank\">KillaWatt</a> power monitor. This little device can give you a lot of useful information about your home&#8217;s energy use.</p>\n<p>What do you do once you have this information? If you want to start small, check out our post on <a href=\"http://www.mydomino.com/blog/6-free-ways-to-save-money-and-energy/\">6 free ways to save money and energy</a>. Simple actions like washing your laundry in cold water can <strong>save you more than you might think</strong>.</p>\n<h2>More steps you can take</h2>\n<p>Maybe you want to do a bit more. To <strong>take care of energy drains</strong>, you can cluster appliances and electronics with a <a href=\"http://www.amazon.com/s/ref=sr_st_relevancerank?keywords=smart+power+strip&amp;fst=as%3Aoff&amp;rh=n%3A172282%2Cn%3A541966%2Cn%3A172456%2Cn%3A761520%2Ck%3Asmart+power+strip&amp;qid=1433291532&amp;sort=relevancerank\">smart power strip</a> &#8212; and enjoy those extra cups of coffee. Switching to LED bulbs is another great way to save more than you might expect. For more details and other ideas, check out our post on <a href=\"http://www.mydomino.com/blog/4-easy-ways-to-save-on-your-electric-bill-each-month/\">4 easy ways to save on your power bill</a>.</p>\n<p>If you really want to go all-in, <strong><a href=\"http://mydomino.dreamhosters.com/solar-101/\">solar power</a> might be the thing for you</strong>. Even if you can&#8217;t put solar on your roof, you may be able to <a href=\"http://www.mydomino.com/blog/community-solar-popular/\">buy panels that are installed somewhere else</a>. Or you might be able to sign up for a <a href=\"http://mydomino.dreamhosters.com/clean-power-plan-for-everyone/\">clean power plan</a>. Our post on <a href=\"http://mydomino.com/blog/5-ways-to-save-big-with-clean-energy/\">5 ways to save big with clean energy</a> has more ideas for major energy savings.</p>\n<h2>Making Energy Awareness Month easy</h2>\n<p>If you&#8217;d like to know even more about your energy use, there are all kinds of carbon footprint calculators out there. The EPA has put together <a href=\"http://www3.epa.gov/carbon-footprint-calculator/\" target=\"_blank\">good one</a> that can give you an idea of the carbon emissions your household is producing.</p>\n<p>But you don&#8217;t need to spend time plugging numbers into an online calculator. At MyDomino, we&#8217;ll help you find your path to your 100% clean energy lifestyle. We want to make it <strong>simple and easy for you to start saving energy and money now</strong>.</p>\n<p>What better time than Energy Awareness Month to start taking action! If you want to see what energy-saving actions make sense for your home, family, and lifestyle, <strong><a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_EnergyAwarenessMonth\" target=\"_blank\">contact a MyDomino energy savings concierge</a></strong>, and we&#8217;ll get you started.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>October is National Energy Awareness Month. MyDomino can help you find the best ways for your family to save energy and money.</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 1600,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      7
+    ],
+    "tags": [
+      252,
+      253,
+      251,
+      84,
+      103,
+      219,
+      21,
+      23
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/techipadcoffee.png",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3079"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3079"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3079/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/1600"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3079"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3079"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3079"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3075,
+    "date": "2016-10-05T10:02:47",
+    "date_gmt": "2016-10-05T17:02:47",
+    "guid": {
+      "rendered": "http://www.beyondfossilfuels.org/?p=185"
+    },
+    "modified": "2016-10-06T11:17:31",
+    "modified_gmt": "2016-10-06T18:17:31",
+    "slug": "6-free-ways-to-save-money-and-energy",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/6-free-ways-to-save-money-and-energy/",
+    "title": {
+      "rendered": "6 Free Ways to Save Money and Energy"
+    },
+    "content": {
+      "rendered": "<p>If you&#8217;ve been wanting to save money while also saving energy, we have good news. You can start with some quick and easy actions that won&#8217;t cost you a dime! With just a little bit of time and minimal effort, you can take advantage of these free savings.<!--more--></p>\n<h2><strong>1. Turn a knob and save hundreds a year</strong></h2>\n<p>If you&#8217;ve ever put your hands under the hot water tap and instantly felt a painful burn, you likely have your hot water turned up way higher than it needs to be. Now, most people don’t know much about their water heaters, but these appliances are very easy to adjust. If your water is too hot, simply turning the water heater down to 120 degrees (or medium) will not only save you energy &#8212; it will be safer, too. <em>Note</em>: If you have a compromised immune system, you should leave the setting at 140 degrees.</p>\n<h2><strong>2. Wash your laundry in cold water</strong></h2>\n<p>Continuing the theme of water, did you know that modern laundry detergents are designed to work equally well with cold or hot water? By <a href=\"http://mydomino.dreamhosters.com/will-washing-in-cold-water-clean-laundry/\">washing your laundry in cold water</a>, you&#8217;re saving energy to heat the water, and your clothes come out just as clean. You might even extend the life of your clothes.</p>\n<h2><strong>3. Give line-drying a try</strong></h2>\n<p>If you have the time and space for it, line-drying your clothes will also help by cutting the dryer completely out of the equation. Since a clothes dryer accounts for 12% of electricity use in the typical household, the extra effort could be worth it.</p>\n<h2><strong>4. Run large appliances at night</strong></h2>\n<p>Depending on where you live, it can pay to run large appliances during off-hours, like at night. Some electric companies charge you more for electricity during peak-use times. By shifting to lower-use times, you&#8217;ll spend less money for your electricity. This can be especially effective for appliances like your washer, dryer, and dishwasher.</p>\n<h2><strong>5. Make the most of your thermostat</strong></h2>\n<p>Your thermostat controls 50% of your home&#8217;s power. Make the most of this by ensuring you&#8217;re setting it properly. If you own a programmable thermostat, set it for all 7 days of the week. Even if you have an old-fashioned manual thermostat, turn it down at night and when you&#8217;re away to save energy when you can. These changes can <strong>save you up to $150 a year</strong> and keep you more comfortable.</p>\n<h2><strong>6. Save up to $1 a gallon with simple driving changes</strong></h2>\n<p>No matter what type of vehicle you drive, you can likely improve its mileage, and save money, by practicing <em>hypermiling</em>. That basically means driving in a way that maximizes your gas mileage. Slowly accelerating and braking, avoiding idling and air conditioner use, and properly maintaining your vehicle will all help you go farther on a tank of gas. Check out our <a href=\"http://mydomino.com/blog/improve-gas-mileage-hypermiling/\">hypermiling blog post</a> for more details.</p>\n<h2>Every little bit helps</h2>\n<p>Whether you choose to take some or all of these actions, each one can help. And hey, it costs you nothing, so any savings go straight to your pocketbook.</p>\n<p>For more ways to save energy and money, <strong>contact a <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_6EasyWaysSave\" target=\"_blank\">MyDomino energy savings concierge</a></strong> today. We’ll help you see what works best for your family and lifestyle.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>You don&#8217;t need to pay for expensive home upgrades to save energy &#8212; and money. With these 6 simple actions, you can save now without compromising your lifestyle.</p>\n",
+      "protected": false
+    },
+    "author": 4,
+    "featured_media": 186,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      3,
+      7
+    ],
+    "tags": [
+      73,
+      74,
+      75,
+      76,
+      30,
+      77
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/06/energy-saving-money.jpg",
+    "author_meta": {
+      "ID": "4",
+      "user_nicename": "brian",
+      "user_email": "brian@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:37:41",
+      "display_name": "Brian Vieweger",
+      "first_name": "Brian",
+      "last_name": "Vieweger"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3075"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/4"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3075"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3075/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/186"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3075"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3075"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3075"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3094,
+    "date": "2016-10-04T08:05:55",
+    "date_gmt": "2016-10-04T15:05:55",
+    "guid": {
+      "rendered": "http://www.mydomino.com/blog/?p=1220"
+    },
+    "modified": "2016-10-26T14:38:37",
+    "modified_gmt": "2016-10-26T21:38:37",
+    "slug": "smarten-your-home-with-power-strips",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/smarten-your-home-with-power-strips/",
+    "title": {
+      "rendered": "Use Power Strips to Smarten Your Home"
+    },
+    "content": {
+      "rendered": "<p>Thinking of making your home a bit smarter? Want more control of your energy use?</p>\n<p>When it comes to energy-efficiency actions, homeowners have quite a few choices. But what if you can’t afford major home improvements? Or what if you’re a renter? As a MyDomino energy savings concierge, I get this kind of question a lot.<!--more--></p>\n<p>The good new is, any of us can take simple actions to save energy and money &#8212; and make our homes a little smarter in the process. </p>\n<h2>Vanquish the vampires</h2>\n<p>“Smart homes” are quite the buzz these days. And the term can mean a lot of things. I’ll start with a simple action that&#8217;s also the smartest thing you can do to save energy in your home. It involves killing off <a href=\"http://www.mydomino.com/blog/how-you-can-save-over-100-a-year-in-5-minutes/\">vampire energy loads</a> &#8212; the power that your appliances are draining even when you’re not using them. </p>\n<p>An easy way to vanquish the vampires is to plug your appliances into <a href=\"http://www.nrel.gov/docs/fy14osti/60461.pdf\" target=\"_blank\">smart strips</a>. These power strips won’t stop all energy use, like a traditional power strip would if you turned it off or unplugged it. But they have the benefit of being easier to control, so you&#8217;re more likely to turn off devices. </p>\n<p>You can choose from several kinds of smart strips. Here are the best of each main type.</p>\n<h2><a href=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/09/belkin.jpg\"><img class=\"alignleft wp-image-1232\" src=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/09/belkin-241x300.jpg\" alt=\"belkin\" width=\"200\" height=\"249\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/belkin-241x300.jpg 241w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/belkin-768x957.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/belkin-822x1024.jpg 822w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/belkin-610x760.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/belkin.jpg 1204w\" sizes=\"(max-width: 200px) 100vw, 200px\" /></a>Remote-switch power strips</h2>\n<p>Remote-switch power strips have one or two “always on” plugs, for devices you want to ensure stay on, and usually three times as many “easy off” plugs. You can turn off unused devices by flipping a switch on the strip itself, or sometimes even using a remote. A top-of-the-line remote-switch power strip is the <a href=\"http://www.amazon.com/Belkin-Conserve-Switch%C2%81-Protector-F7C01008q/dp/B003P2UMNK/ref=sr_1_1?ie=UTF8&amp;qid=1439493675&amp;sr=8-1&amp;keywords=Belkin+Conserve+Switch%C2%81+Surge+Protector\" target=\"_blank\">Belkin Conserve Switch Surge Protector with Remote</a>.</p>\n<h2></h2>\n<h2>Master-controlled power strips</h2>\n<p>Like the remote-switch variety, master-controlled power strips have several “always on” plugs for your DVR and other devices you don’t want to cut off power to. They also have a “control plug,” which senses when more energy is being pulled from a device that&#8217;s plugged in and turns on &#8212; like when you turn on the TV with your remote. A good one is the <a href=\"http://www.amazon.com/Smart-Strip-4940-Autoswitching-Technology/dp/B0006PUDQK/ref=sr_1_1?ie=UTF8&amp;qid=1439494455&amp;sr=8-1&amp;keywords=Smart+Strip+4940+LCG3+LCG3M+Energy+Saving+Surge+Protector+with+Autoswitching+Technology%2C+10-Outlet\" target=\"_blank\">Smart Strip 4940 LCG3 LCG3M Energy Saving Surge Protector with Autoswitching Technology, 10-Outlet</a>.</p>\n<h2><img class=\"alignright wp-image-1233\" src=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/09/Westek-300x300.jpg\" alt=\"Westek\" width=\"260\" height=\"260\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Westek-300x300.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Westek-150x150.jpg 150w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Westek-768x768.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Westek-1024x1024.jpg 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Westek-610x610.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Westek-735x735.jpg 735w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Westek.jpg 1500w\" sizes=\"(max-width: 260px) 100vw, 260px\" />Timer power strips</h2>\n<p>Timer power strips turn on and off based on the time you set them to. This is a great feature if you know you won&#8217;t be using devices during certain times, or if you&#8217;d like to have devices like lights turn on automatically at certain times. Check out the <a href=\"http://www.amazon.com/Westek-TE08WHB-Indoor-8-Outlet-Digital/dp/B009KVEENO/ref=sr_1_4?ie=UTF8&amp;qid=1439505540&amp;sr=8-4&amp;keywords=Timer+powerstrips&amp;refinements=p_72%3A2661618011\" target=\"_blank\">Westek TE08WHB Indoor 8-Outlet Weekly Digital Power Strip Timer</a>.</p>\n<h2>Masterless power strips</h2>\n<p>Masterless power strips detect when power is being called for. When a significant amount of power is not being called for, the whole strip powers down, to ensure the vampire load is kept to a minimum. A downside of these strips is that if they detect a large enough drop in energy use, they might cut power to devices you are using. They&#8217;re also some of the most expensive power strips on the market. If you&#8217;d still like to try them out, the <a href=\"http://www.newegg.com/Product/Product.aspx?Item=9SIA3FV1669990&amp;nm_mc=KNC-GoogleMKP-PC&amp;cm_mmc=KNC-GoogleMKP-PC-_-pla-_-Surge+Suppressors-_-9SIA3FV1669990&amp;gclid=CMO1ytGVp8cCFZKBfgod6G4DcQ&amp;gclsrc=aw.ds\" target=\"_blank\">Embertec EmberCeptor AV Series</a> is a good bet.</p>\n<h2><a href=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/09/emerbtec.jpg\"><img class=\"wp-image-1234 alignnone\" src=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/09/emerbtec-300x225.jpg\" alt=\"emerbtec\" width=\"260\" height=\"195\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/emerbtec-300x225.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/emerbtec-610x458.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/emerbtec.jpg 640w\" sizes=\"(max-width: 260px) 100vw, 260px\" /></a></h2>\n<h2>Smart strip and plugs</h2>\n<p><a href=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/09/Wemo.jpg\"><img class=\"alignright wp-image-1235\" src=\"http://www.beyondfossilfuels.org/wp-content/uploads/2015/09/Wemo-300x300.jpg\" alt=\"Wemo\" width=\"280\" height=\"280\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Wemo-300x300.jpg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Wemo-150x150.jpg 150w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Wemo-768x768.jpg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Wemo-1024x1024.jpg 1024w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Wemo-610x610.jpg 610w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Wemo-735x735.jpg 735w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/Wemo.jpg 1500w\" sizes=\"(max-width: 280px) 100vw, 280px\" /></a>Smart strips or plugs are connected to wifi, letting you control your power usage over the phone. Which type is right for you depends on how you&#8217;ll use them:</p>\n<ul>\n<li><a href=\"http://www.amazon.com/WeMo-Electronics-Automation-Smartphones-Compatible/dp/B00BB2MMNE/ref=sr_1_1?s=pc&amp;ie=UTF8&amp;qid=1439587841&amp;sr=8-1&amp;keywords=wifi+plug\" target=\"_blank\">Belkin WeMo Switch</a>: A single outlet controlled independently. This product’s app also includes a timer, a scheduled on option, and an Away Mode, which makes it look like you&#8217;re home when you&#8217;re not by randomly turning on and off. </li>\n<li><a href=\"http://www.amazon.com/Wi-Fi-enabled-i-BRIGHT7x-Protector-remotely-BRIGHTenergy/dp/B00TBDXO4G/ref=sr_1_21?s=hi&amp;ie=UTF8&amp;qid=1439587112&amp;sr=1-21&amp;keywords=wifi+smart+strip\" target=\"_blank\">i-BRIGHT7x 4ft Smart Surge Protector</a>: 5 outlets controlled together (plus 2 always on) &#8212; only for iPhones.</li>\n<li><a href=\"http://www.amazon.com/Ubiquiti-mPower-3-port-Power-Wifi/dp/B00CXWS848/ref=sr_1_2?ie=UTF8&amp;qid=1439513288&amp;sr=8-2&amp;keywords=WiFi+Power+Strip\" target=\"_blank\">Ubiquiti mPower mFi 3-port Power (EU and US) Wifi</a>: 3 outlets that are separately controlled but located together &#8212; iPhone and Android compatible. </li>\n</ul>\n<h2>What&#8217;s the smartest choice?</h2>\n<p>If you&#8217;re still not sure which power strip to choose, or have any other questions about saving energy and money, <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_SmartPowerStrips\" target=\"_blank\">sign up for a consultation</a> with a MyDomino energy savings concierge. We love helping people like you sort through all the options!</p>\n<hr />\n<em>In the MyDomino Concierge Corner, our concierges give you their expert tips to save energy and money. Today, Laura Osburn delves into power strips &#8212; and how they can ward off the energy vampires.</em></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Thinking of making your home a bit smarter? Want more control of your energy use? Any of us can take simple actions to save energy and money.</p>\n",
+      "protected": false
+    },
+    "author": 10,
+    "featured_media": 1767,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      231,
+      7
+    ],
+    "tags": [
+      220,
+      84,
+      221,
+      219,
+      86,
+      87
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/CC_SmartStrips.png",
+    "author_meta": {
+      "ID": "10",
+      "user_nicename": "laura",
+      "user_email": "laura@mydomino.com",
+      "user_registered": "2015-09-02 00:42:52",
+      "display_name": "Laura Osburn",
+      "first_name": "Laura",
+      "last_name": "Osburn"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3094"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/10"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3094"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3094/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/1767"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3094"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3094"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3094"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3080,
+    "date": "2016-10-03T10:28:55",
+    "date_gmt": "2016-10-03T17:28:55",
+    "guid": {
+      "rendered": "http://mydomino.com/blog/?p=1796"
+    },
+    "modified": "2016-10-15T23:16:11",
+    "modified_gmt": "2016-10-16T06:16:11",
+    "slug": "why-should-you-get-a-smart-thermostat",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/why-should-you-get-a-smart-thermostat/",
+    "title": {
+      "rendered": "Why Should You Get a Smart Thermostat?"
+    },
+    "content": {
+      "rendered": "<p>Winter is not so far away. Even here in California, we&#8217;re starting to feeling an autumn chill in the air. What better time to take control of that small appliance in your home with an outsized impact? That&#8217;s right, we&#8217;re talking about your thermostat. This little thing <strong>controls 50% of your power bill</strong>!</p>\n<p><!--more--></p>\n<p>Heating is the <strong>largest home energy bill for most Americans</strong>. When you add cooling to that, your thermostat controls more energy than all your lighting, appliances, and electronics combined.</p>\n<h2>What about a programmable thermostat?</h2>\n<p>One way to take control and slash your power bill is by programming your thermostat. If you have a programmable thermostat, you can set it to turn down your heating or cooling at night, and when you&#8217;re away. It&#8217;s also important to set it for all 7 days of the week.</p>\n<p>So why go to the next level and get a smart thermostat? If you&#8217;re like most Americans, you probably aren&#8217;t using your programmable thermostat to its full advantage.</p>\n<p>In fact, almost <strong>90% of people who have a programmable thermostat are not using it effectively &#8212; or even using it at all</strong>. That&#8217;s according to a <a href=\"http://aceee.org/files/proceedings/2010/data/papers/1963.pdf\" target=\"_blank\">study sponsored by the Department of Energy</a>.  The study found that many people use their programmable thermostat as an &#8220;on-off switch.&#8221; Most people don&#8217;t fully learn how to use the device. And a full 89% rarely or never use it to set a weekday or weekend program.</p>\n<h2>Let a smart thermostat do the work for you</h2>\n<p>As an on-off switch, a programmable thermostat just isn&#8217;t paying its way. It&#8217;s no better than its manual counterpart.</p>\n<p>A <strong>smart thermostat</strong>, on the other hand, is effective because it does the work for you. Let&#8217;s face it &#8212; most of us are too busy, and have too much on our minds, to take full advantage of a regular programmable thermostat.</p>\n<p>Here&#8217;s what a smart thermostat can do for you:</p>\n<ul>\n<li><strong>Learn your preferences</strong> and adjust your home temperature to your lifestyle.</li>\n<li><strong>Detect things like humidity changes</strong> or an oven being turned on, and adjust itself to keep you comfortable.</li>\n<li><strong>Adjust to your schedule changes</strong>.</li>\n<li><strong>Lower your heating or air conditioning</strong> when you’re away or asleep.</li>\n<li><strong>Let you see how much you’re spending</strong> on heating and cooling, tweak its programming, and instantly see your savings.</li>\n<li><strong>Keep you from having to think about it</strong>!</li>\n<li><strong>Save you <a href=\"http://mydomino.dreamhosters.com/how-much-can-a-smart-thermostat-save-you/\">$100+ a year</a></strong>.</li>\n</ul>\n<p>A smart thermostat does all this while still letting you control it when you want to. You can even control the thermostat remotely when you’re not home.</p>\n<p>Plus &#8212; we have to admit it &#8212; smart thermostats are just cool! We have one in our office and love playing with it.</p>\n<h2>How do you pick the right smart thermostat?</h2>\n<p>With more smart thermostats on the market all the time, you may be wondering how to make the choice. <a href=\"http://mydomino.dreamhosters.com/which-smart-thermostat-should-you-get/\">Check out our handy guide</a> to see which of the top contenders is right for you.</p>\n<p>And don&#8217;t hesitate to check in with your <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_WhySmartThermostat\" target=\"_blank\">MyDomino energy savings concierge</a>. Your concierge will explain the ins and outs of a smart thermostat &#8212; and have you on the way to keeping your home comfortable while saving money.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Winter is approaching. What better time to take control of the small appliance in your home with an outsized impact &#8212; and save on your power bills! </p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 1819,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      6
+    ],
+    "tags": [
+      283,
+      125,
+      292,
+      282,
+      116
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/11/NestEcobee-2.png",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3080"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3080"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3080/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/1819"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3080"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3080"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3080"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3086,
+    "date": "2016-09-30T11:20:23",
+    "date_gmt": "2016-09-30T18:20:23",
+    "guid": {
+      "rendered": "http://mydomino.com/blog/?p=1904"
+    },
+    "modified": "2016-10-06T11:44:26",
+    "modified_gmt": "2016-10-06T18:44:26",
+    "slug": "greenhouse-gas-reduction-benefits-of-biking",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/greenhouse-gas-reduction-benefits-of-biking/",
+    "title": {
+      "rendered": "Bike Your Way to Greenhouse Gas Reductions"
+    },
+    "content": {
+      "rendered": "<p>You may be wondering what you can do in your own life to help reduce greenhouse gas emissions. Sure, you can switch to <a href=\"http://mydomino.com/blog/how-to-switch-to-leds/\">LED bulbs</a>, get a <a href=\"http://mydomino.com/blog/why-should-you-get-a-smart-thermostat/\">smart thermostat</a>, or even <a href=\"http://mydomino.com/blog/why-you-should-not-wait-to-go-solar/\">go solar</a>. But there&#8217;s a really simple thing you may not have considered &#8212; something you may already be doing.</p>\n<p>It turns out that <strong>a great way to reduce greenhouse gas emissions is simply riding a bike</strong>.<!--more--></p>\n<h2>You know these benefits of biking</h2>\n<p>Most of us ride bikes for reasons like these:</p>\n<ul>\n<li><strong>Bike riding is fun!</strong> More Americans <a href=\"http://velonews.competitor.com/2015/03/news/study-103-7-million-americans-ride-bikes_362019\" target=\"_blank\">ride bikes for recreation</a> than for any other reason.</li>\n<li><strong>It&#8217;s a great way to get fit.</strong> You get the <a href=\"http://www.healthywomen.org/content/article/benefits-bike-riding\" target=\"_blank\">same cardiovascular benefits</a> from biking as from other aerobic exercises. But biking is easier on your body than exercises like running. And it&#8217;s an easier exercise to fit into your day if you&#8217;re using it to get somewhere you have to go anyway.</li>\n<li><strong>Biking can be the best way to get around in crowded cities. </strong>Cycling is usually the <a href=\"http://www.fastcoexist.com/3054052/how-far-can-you-get-in-5-minutes-on-a-bike-this-app-will-tell-you\" target=\"_blank\">fastest way to travel</a> in a city for trips of up to 6 miles. You don&#8217;t have to worry about parking. And you&#8217;re <a href=\"http://www.fastcoexist.com/3046054/want-to-reduce-stress-at-work-try-commuting-by-bike\" target=\"_blank\">40% less likely to be tense</a> in the hour after arriving at work on a bike than if you drive or take public transit.</li>\n<li><strong>It saves money.</strong> It almost goes without saying that <a href=\"http://www.bicyclesource.com/you/commuting/why-cyclocommute.shtml\" target=\"_blank\">bikes are much cheaper</a> to buy and operate than cars &#8212; <a href=\"http://mydomino.dreamhosters.com/what-i-learned-test-riding-e-bikes/\">even electric bikes</a>! Bike riding is usually also cheaper than taking public transportation.</li>\n</ul>\n<h2>You can help save the planet, too</h2>\n<p>We don&#8217;t necessarily think about saving the planet when we saddle up. But biking is one of the greenest ways to get around, second only to walking. That&#8217;s significant because transportation is the second-biggest contributor to overall greenhouse gas emissions, after energy generation.</p>\n<p><a href=\"http://www.ecf.com/wp-content/uploads/ECF_CO2_WEB.pdf\" target=\"_blank\">A 2011 study</a> by the European Cycling Federation compared the average emissions for bikes to other kinds of transportation. The study looked at the environmental cost of manufacturing bikes, as well as their actual use. Even assuming an average bike weight of a rather heavy 40+ pounds, the study found these emission rates:</p>\n<ul>\n<li><strong>Regular bikes</strong>: About 33 grams of CO2e (carbon dioxide equivalent) per mile</li>\n<li><strong>Electric bikes</strong>: 45g/mile</li>\n<li><strong>Buses</strong>: 158g/mile per passenger</li>\n<li><strong>Cars</strong>: 423g/mile per person</li>\n</ul>\n<p>These numbers show what a difference our daily choices can make. Even choosing to bike a couple days a week can significantly reduce your carbon footprint. If you go all-in and bike to work for a year, it&#8217;s like planting over 30 trees.</p>\n<p>When more of us take to our bikes, we can make an even bigger difference &#8212; what we like to call a MyDomino Effect.</p>\n<p><a href=\"https://www.itdp.org/wp-content/uploads/2015/11/A-Global-High-Shift-Cycling-Scenario_Nov-2015.pdf\" target=\"_blank\">According to a study</a> by the Institute for Transportation &amp; Development Policy and the University of California, Davis, a dramatic increase in biking could save our world $24 trillion cumulatively between 2015 and 2050. It would also <strong>cut CO2 emissions in 2050 by nearly 11%</strong>.</p>\n<h2>Why start biking now?</h2>\n<p>If you haven&#8217;t been biking as part of your daily life, this might be just the time to take it up. Biking is becoming more popular in the U.S, with cities around the country — from Cincinnati to Salt Lake City to San Francisco — adding bike lanes. Many of these are <a href=\"http://www.usatoday.com/story/news/nation/2013/01/16/cities-add-protected-bike-lanes/1839613/\" target=\"_blank\">protected lanes</a>.</p>\n<p><a href=\"http://mydomino.com/blog/whats-so-great-about-electric-bikes/\">Electric bikes</a> are becoming more available, making it even easier to bike. They provide the convenience of a bicycle, with the added benefit of being self-powered.</p>\n<p>Even with winter not too far off, you can still make good use of your bike with <a href=\"http://www.treehugger.com/bikes/winter-coming-how-ride-your-bike-it.html\" target=\"_blank\">these simple tips</a>.</p>\n<p>So what&#8217;s stopping you? There&#8217;s never been a better time to start biking, and join the<strong> <a href=\"http://velonews.competitor.com/2015/03/news/study-103-7-million-americans-ride-bikes_362019\" target=\"_blank\">103.7 million Americans</a> and counting already riding</strong>.</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>You may be wondering what you can do to in your own life to help the environment. Biking is one of the simplest ways to reduce your carbon footprint!</p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 1906,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      5
+    ],
+    "tags": [
+      323,
+      303,
+      215
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/12/KidsBicycle.jpg",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3086"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3086"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3086/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/1906"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3086"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3086"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3086"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3084,
+    "date": "2016-09-29T10:45:02",
+    "date_gmt": "2016-09-29T17:45:02",
+    "guid": {
+      "rendered": "http://www.mydomino.com/blog/?p=1438"
+    },
+    "modified": "2016-10-06T11:28:20",
+    "modified_gmt": "2016-10-06T18:28:20",
+    "slug": "smartphone-power-use",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/smartphone-power-use/",
+    "title": {
+      "rendered": "Your Smartphone Power Use Is not What You Think"
+    },
+    "content": {
+      "rendered": "<p>UPDATED 9/29/16</p>\n<p>Smartphone power use may not be on your mind every day. But when you do think about how much power your smartphone uses, your mind most likely goes to the time you spend charging your phone. In reality, 80% of the energy usage in a gadget&#8217;s lifetime happens outside of the time it spends in its owner&#8217;s hands.</p>\n<p><!--more--></p>\n<h2>Your phone&#8217;s true cost</h2>\n<p>Wrap your head around that &#8212; the daily power usage of a smartphone or tablet over years of ownership accounts for only 20% of the device&#8217;s total power usage! When you combine this with the <a href=\"http://www.theguardian.com/sustainable-business/2015/mar/23/were-are-all-losers-to-gadget-industry-built-on-planned-obsolescence\" target=\"_blank\">planned &#8220;self-destruction&#8221;</a> used to increase product demand, it’s easy to see how quickly <a href=\"http://www.epa.gov/wastes/conserve/materials/ecycling/infographic/pdf/smart_phone_infographic.pdf\" target=\"_blank\">the environmental cost</a> of buying new gadgets adds up.</p>\n<p>To begin with, there are lots of rare earth elements used to create smartphones, and only a few places in the world to obtain them. The mining and byproducts of these materials uses a lot of energy, and has a huge impact on the planet. Take, for example, the <a href=\"http://www.bbc.com/future/story/20150402-the-worst-place-on-earth\" target=\"_blank\">toxic sludge lake in Mongolia</a> or deforestation from mining in the Congo.</p>\n<p>Once these rare materials are extracted, they must be processed, then used in production at a factory. Depending on the country of origin, environmental manufacturing policies may vary. Once the device is ready for sale, it must then be transported to the distributors, most likely using dirty fossil fuels.</p>\n<p>That’s a long journey before it ends up in your hands! So what can you do to reduce your smartphone&#8217;s impact on the environment?</p>\n<h2>Smart purchasing</h2>\n<p>It’s a cultural phenomenon to chase after the shiniest new gizmo. But you can have the biggest impact by making smart buying decisions. Focus on <a href=\"http://www.ted.com/talks/leyla_acaroglu_paper_beats_plastic_how_to_rethink_environmental_folklore?language=en\" target=\"_blank\">sustainably designed</a> gadgets. Look for hardware with a long shelf life, made from recycled materials. It&#8217;s best if it can be easily disassembled. To avoid buying new devices frequently, look for devices that can be improved with software updates, or by replacing parts. Innovative companies like <a href=\"http://www.puzzlephone.com/\" target=\"_blank\">Puzzlephone</a>, as well as <a href=\"http://www.theverge.com/2016/7/21/12244300/motorola-moto-z-review-droid-moto-mod\" target=\"_blank\">Lenovo</a>, are introducing modular phones with replaceable parts. <a href=\"https://www.fairphone.com/\" target=\"_blank\">Fairphone</a> is a brand dedicated to reducing the harmful consequences of rare earth mining.</p>\n<h2>Mobile maintenance</h2>\n<p>Once you own a device, try to extend its lifespan. Take <a href=\"http://www.popularmechanics.com/technology/gadgets/a15731/best-way-to-keep-li-ion-batteries-charged/\" target=\"_blank\">proper care of the lithium-ion batteries</a> used in most mobile or internet-enabled devices. Keep the device away from high heat, which has a tendency to damage the battery. Invest in <a href=\"http://www.gizmag.com/best-rugged-smartphones-2014/33474/\" target=\"_blank\">adequate protection</a> so you don’t accidentally break the device. See if you can repair parts when needed, rather than replacing the entire gadget.</p>\n<p>Additionally, you can run the device off of clean energy sources. If you’re unable to <a href=\"http://mydomino.dreamhosters.com/solar-101/\">power your entire home</a> with solar, look into a <a href=\"http://www.amazon.com/WakaWaka-Power-Solar-Charger-Yellow/dp/B00OM1JJ3W%3Fpsc%3D1%26SubscriptionId%3DAKIAJQZCTRPP2KFB6YZA%26tag%3Ddomino09d-20%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%B00OM1JJ3W\">solar phone charger</a>!</p>\n<h2>Proper disposal</h2>\n<p>Historically, about <a href=\"http://www.usnews.com/news/articles/2014/08/01/e-waste-in-developing-countries-endangers-environment-locals\" target=\"_blank\">23% of of the developed world&#8217;s</a> e-waste has ended up in developing countries. There, it contaminates the land, water, and air. Those devices that don&#8217;t go abroad end up in domestic landfills, or sit unused in desk drawers. Once the day comes when you must part with your device, <a href=\"https://www.epa.gov/sites/production/files/2015-06/documents/smart_phone_infographic_v4.pdf\" target=\"_blank\">proper disposal</a> is incredibly important.</p>\n<p>Make sure to terminate your service, clear the memory, remove SIM cards, and send or deliver the device to a <a href=\"http://www2.epa.gov/recycle/electronics-donation-and-recycling\" target=\"_blank\">certified technology recycling facility</a>. This important step helps reduce the amount of material extraction required to start the production process all over again!</p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Learn about the secret life of your smartphone &#8212; before it landed in your hands!</p>\n",
+      "protected": false
+    },
+    "author": 14,
+    "featured_media": 1439,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      7
+    ],
+    "tags": [
+      238,
+      237,
+      239,
+      235,
+      236
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/09/TechnologyPhoneNature_reduced.png",
+    "author_meta": {
+      "ID": "14",
+      "user_nicename": "eva",
+      "user_email": "eva@mydomino.com",
+      "user_registered": "2015-10-01 23:37:39",
+      "display_name": "Eva Roethler",
+      "first_name": "Eva",
+      "last_name": "Roethler"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3084"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/14"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3084"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3084/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/1439"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3084"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3084"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3084"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]

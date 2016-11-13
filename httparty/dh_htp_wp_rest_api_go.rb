@@ -9,7 +9,8 @@ def get_posts
 
   	dh = DHHtp.new(HOST_IP)
   	#query_param = {filter: {posts_per_page: 6, page:3}}
-    query_param = {page: 1}
+    query_param = {page: 1, per_page: 4}
+    
     #query_param = {json: 'core.info', controller: 'core'}
   	response = dh.get_posts(query_param)
 
@@ -30,7 +31,7 @@ def pretty_print_posts_from_api
   begin
 
     dh = DHHtp.new(HOST_IP)
-    query_param = {filter: {posts_per_page: 4}}
+    query_param = {page: 1, per_page: 20}
     #query_param = {json: 'core.info', controller: 'core'}
     response = dh.get_posts(query_param)
 
