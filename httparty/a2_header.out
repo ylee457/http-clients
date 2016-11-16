@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Mon, 14 Nov 2016 19:50:11 GMT
+Server: Apache
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+X-Robots-Tag: noindex
+X-Content-Type-Options: nosniff
+Access-Control-Expose-Headers: X-WP-Total, X-WP-TotalPages
+Access-Control-Allow-Headers: Authorization
+X-WP-Total: 286
+X-WP-TotalPages: 72
+Link: <http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?per_page=4&page=1>; rel="prev", <http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?per_page=4&page=3>; rel="next"
+Allow: GET
+Set-Cookie: PHPSESSID=lkcbDd1tVTonhyOUJltyr1; path=/
+Content-Type: application/json; charset=UTF-8
+

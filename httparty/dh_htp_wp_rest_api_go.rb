@@ -1,13 +1,13 @@
 require_relative('dh_htp_wp_rest_api') 
 
-HOST_IP = 'mydomino.dreamhosters.com'
+#HOST_IP = 'mydomino.dreamhosters.com'
 
 
 def get_posts
 
   begin
 
-  	dh = DHHtp.new(HOST_IP)
+  	dh = DHHtp.new(DHHtp::HOST_IP)
   	#query_param = {filter: {posts_per_page: 6, page:3}}
     query_param = {page: 1, per_page: 4}
     
@@ -15,6 +15,10 @@ def get_posts
   	response = dh.get_posts(query_param)
 
     #puts "\nResponse is: #{response}\n"
+    puts "\nResponse header is: #{response.headers.inspect}\n"
+    dh.get_pagination_params(response.headers)
+
+
     dh.display_posts(response)
     
 
@@ -30,7 +34,7 @@ def pretty_print_posts_from_api
 
   begin
 
-    dh = DHHtp.new(HOST_IP)
+    dh = DHHtp.new(DHHtp::HOST_IP)
     query_param = {page: 1, per_page: 20}
     #query_param = {json: 'core.info', controller: 'core'}
     response = dh.get_posts(query_param)
@@ -57,7 +61,7 @@ def get_recent_posts
 
   begin
 
-    dh = DHHtp.new(HOST_IP)
+    dh = DHHtp.new(DHHtp::HOST_IP)
     #query_param = {json: '1'}
     query_param = {json: 'core.get_recent_posts'}
     response = dh.get_posts(query_param)
