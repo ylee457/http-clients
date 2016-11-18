@@ -30,12 +30,43 @@ def get_posts
 end
 
 
+
+def get_post_by_id(id)
+
+  begin
+
+    id = id.to_i
+
+    dh = DHHtp.new(DHHtp::HOST_IP)
+    #query_param = {filter: {posts_per_page: 6, page:3}}
+    query_param = {page: 1, per_page: 4}
+    
+    #query_param = {json: 'core.info', controller: 'core'}
+    response = dh.get_post_by_id(id, query_param)
+
+    #puts "\nResponse is: #{response}\n"
+    puts "\nResponse header is: #{response.headers.inspect}\n"
+
+
+    # pretty print to screen
+    puts "\nPretty print the output\n"
+    puts JSON.pretty_generate(JSON.parse(response.body))
+    
+
+  rescue => e
+    puts "\nError! #{e}\n"
+      
+  end
+
+end
+
+
 def pretty_print_posts_from_api
 
   begin
 
     dh = DHHtp.new(DHHtp::HOST_IP)
-    query_param = {page: 1, per_page: 20}
+    query_param = {page: 1, per_page: 10}
     #query_param = {json: 'core.info', controller: 'core'}
     response = dh.get_posts(query_param)
 
@@ -86,7 +117,41 @@ end
 
 
 
-get_posts
+
+def get_categories
+
+  begin
+
+    dh = DHHtp.new(DHHtp::HOST_IP)
+    #query_param = {filter: {posts_per_page: 6, page:3}}
+    query_param = {}
+    
+    #query_param = {json: 'core.info', controller: 'core'}
+    response = dh.get_categoriess(query_param)
+
+    #puts "\nResponse is: #{response}\n"
+    puts "\nResponse header is: #{response.headers.inspect}\n"
+
+    # pretty print to screen
+    puts "\nPretty print the output\n"
+    puts JSON.pretty_generate(JSON.parse(response.body))
+    
+    
+
+  rescue => e
+    puts "\nError! #{e}\n"
+      
+  end
+
+end
+
+
+
+
+
+
+#get_posts
 #pretty_print_posts_from_api
 #get_recent_posts
-
+#get_post_by_id('3383')
+get_categories

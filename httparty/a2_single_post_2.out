@@ -1,0 +1,129 @@
+paswd is: 
+Getting Posts from Dreamhost with WP REST API V2...
+
+Query options is: {:page=>1, :per_page=>4}
+
+Params sent to URL is: http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3383?page=1&per_page=4
+
+Response header is: {"date"=>["Fri, 18 Nov 2016 03:49:33 GMT"], "server"=>["Apache"], "expires"=>["Thu, 19 Nov 1981 08:52:00 GMT"], "cache-control"=>["no-store, no-cache, must-revalidate, post-check=0, pre-check=0"], "pragma"=>["no-cache"], "x-robots-tag"=>["noindex"], "x-content-type-options"=>["nosniff"], "access-control-expose-headers"=>["X-WP-Total, X-WP-TotalPages"], "access-control-allow-headers"=>["Authorization"], "link"=>["<http://mydomino.dreamhosters.com/how-to-switch-to-leds-2/>; rel=\"alternate\"; type=text/html"], "allow"=>["GET"], "set-cookie"=>["PHPSESSID=bXLyCq98hx38nABN9JeGM2; path=/"], "connection"=>["close"], "transfer-encoding"=>["chunked"], "content-type"=>["application/json; charset=UTF-8"]}
+
+Pretty print the output
+{
+  "id": 3383,
+  "date": "2016-11-15T10:00:33",
+  "date_gmt": "2016-11-15T18:00:33",
+  "guid": {
+    "rendered": "http://mydomino.com/blog/?p=1804"
+  },
+  "modified": "2016-11-17T13:54:05",
+  "modified_gmt": "2016-11-17T21:54:05",
+  "slug": "how-to-switch-to-leds-2",
+  "type": "post",
+  "link": "http://mydomino.dreamhosters.com/how-to-switch-to-leds-2/",
+  "title": {
+    "rendered": "How to Change a Light Bulb"
+  },
+  "content": {
+    "rendered": "<p><span style=\"font-weight: 400;\">You’re probably familiar with the chart below, which shows how you can save money by <strong>switching from traditional light bulbs to LEDs</strong>. But you may be stuck on a few points. How do you choose among the different options for brightness and color? How do you compare watts on a traditional bulb to an LED? What if your bulb uses more complicated connections than a simple screw-in?</span></p>\n<div id=\"attachment_2039\" style=\"width: 817px\" class=\"wp-caption alignnone\"><a href=\"http://mydomino.wpengine.com/wp-content/uploads/2015/11/LEDsChart.jpeg\"><img class=\"size-full wp-image-2039\" src=\"http://mydomino.wpengine.com/wp-content/uploads/2015/11/LEDsChart.jpeg\" alt=\"Source: Anthology Lighting\" width=\"807\" height=\"736\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/11/LEDsChart.jpeg 807w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/11/LEDsChart-300x274.jpeg 300w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/11/LEDsChart-768x700.jpeg 768w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/11/LEDsChart-610x556.jpeg 610w\" sizes=\"(max-width: 807px) 100vw, 807px\" /></a><p class=\"wp-caption-text\">Source: Anthology Lighting</p></div>\n<p><span style=\"font-weight: 400;\">The Concierge Team at MyDomino is here to help! We&#8217;ll make it easy for you to <strong>switch to LEDs</strong>.</span><!--more--></p>\n<h2>What you need to know</h2>\n<p><span style=\"font-weight: 400;\">Let’s start with where you’ll be looking for the product information on the package. Online stores might have this in a different format, but seeing how it looks on the box will introduce you to the terms you need to know.</span></p>\n<p><a href=\"http://mydomino.wpengine.com/wp-content/uploads/2015/10/lighting-facts-label.jpg\"><img class=\"alignnone size-full wp-image-1806\" src=\"http://mydomino.wpengine.com/wp-content/uploads/2015/10/lighting-facts-label.jpg\" alt=\"lighting-facts-label\" width=\"288\" height=\"288\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/lighting-facts-label.jpg 288w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/lighting-facts-label-150x150.jpg 150w\" sizes=\"(max-width: 288px) 100vw, 288px\" /></a></p>\n<h4>Brightness or lumens: how bright the bulb is</h4>\n<p><span style=\"font-weight: 400;\">For roughly 100 years, the average Joe has been describing the brightness of a bulb by its wattage. But wattage is actually the power that’s drawn to create the light. The way we measure visible light emitted from a source is with </span><b>lumens</b><span style=\"font-weight: 400;\">. </span></p>\n<p><span style=\"font-weight: 400;\">For example, a standard “100-watt” incandescent light bulb produces roughly </span><a href=\"http://www.energy.ca.gov/lightbulbs/lightbulb_faqs.html\"><span style=\"font-weight: 400;\">1490 &#8211; 2600</span><span style=\"font-weight: 400;\"> lumens</span></a><span style=\"font-weight: 400;\">. You can get the same amount of light with a 14-22-watt LED light &#8212; that’s roughly 77% savings in power to get the same amount of light! </span></p>\n<p><span style=\"font-weight: 400;\">Why the ranges in these numbers? Because the lumens produced per watt depends on the manufacturer and model. So it’s a good idea to check the lumens listed for the bulbs you’re buying. I would recommend ignoring the “100-watt equivalent” label entirely. </span></p>\n<h4>Light appearance: how the light feels</h4>\n<p><span style=\"font-weight: 400;\">The color a light produces is measured in <strong>Kelvin (K).</strong> The higher the light is on the Kelvin scale, the “cooler” a room with that light will feel. If you’re looking to match a traditional incandescent light bulb, you want to look in the 2700K &#8211; 3000K range, which is usually described as “warm” and “friendly.” More natural/outdoor lighting is about 4500K &#8211; 6500K and usually feels “cool” and “clean.”</span></p>\n<div id=\"attachment_1807\" style=\"width: 507px\" class=\"wp-caption alignnone\"><a href=\"http://mydomino.wpengine.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-27-at-4.11.06-PM.png\"><img class=\"wp-image-1807 size-full\" src=\"http://mydomino.wpengine.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-27-at-4.11.06-PM.png\" alt=\"Screen Shot 2015-10-27 at 4.11.06 PM\" width=\"497\" height=\"355\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-27-at-4.11.06-PM.png 497w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/Screen-Shot-2015-10-27-at-4.11.06-PM-300x214.png 300w\" sizes=\"(max-width: 497px) 100vw, 497px\" /></a><p class=\"wp-caption-text\">Here you can see the range of lighting via color temperature, with examples of how some bulbs on the market look at those temperatures.</p></div>\n<div id=\"attachment_1808\" style=\"width: 510px\" class=\"wp-caption alignnone\"><a href=\"http://mydomino.wpengine.com/wp-content/uploads/2015/10/ColorTemperature.jpg\"><img class=\"wp-image-1808 size-full\" src=\"http://mydomino.wpengine.com/wp-content/uploads/2015/10/ColorTemperature.jpg\" alt=\"ColorTemperature\" width=\"500\" height=\"318\" srcset=\"http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/ColorTemperature.jpg 500w, http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/ColorTemperature-300x191.jpg 300w\" sizes=\"(max-width: 500px) 100vw, 500px\" /></a><p class=\"wp-caption-text\">Here you can see how a room’s feeling is affected by different lighting choices.</p></div>\n<h4>Connection: how the bulb connects to the fixture</h4>\n<p><span style=\"font-weight: 400;\">Something that stops a lot of people from switching to more energy-efficient light bulbs is non-standard fixtures. Maybe your light fixture doesn&#8217;t accept standard screw-in bulbs. Or maybe it does take screw-in bulbs, but you can’t find LEDs in the right size. </span></p>\n<p><span style=\"font-weight: 400;\">Here&#8217;s how to find the right replacement bulb:</span></p>\n<ol>\n<li><span style=\"font-weight: 400;\"><strong>Identify your existing bulb&#8217;s connection type</strong>. </span><span style=\"font-weight: 400;\">Is it pin type, screw type, or a mysterious &#8220;something else&#8221;? </span><a href=\"http://www.lightbulbs-direct.com/article/fittings-caps-and-bases/\"><span style=\"font-weight: 400;\">Here&#8217;s a page</span></a><span style=\"font-weight: 400;\"> that lists all the types, including a few you may not have known were out there. You can find <a href=\"http://www.amazon.com/gp/search?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;keywords=bi-pin%20led%20replace%20halogen&amp;linkCode=ur2&amp;tag=domino09d-20&amp;linkId=4KXA5QYG3NUSMRKZ\" target=\"_blank\">LED replacements for bi-pin bulbs online</a>.</span></li>\n<li><span style=\"font-weight: 400;\"><strong>Measure your bulb</strong>. </span>Measure the height and width of the base. If your bulb has pins, make sure to measure the length of the pins as well as the spacing between them.</li>\n<li><span style=\"font-weight: 400;\"><strong>Determine the bulb&#8217;s voltage</strong>. </span><span style=\"font-weight: 400;\">To find the voltage of the bulb you want to replace, look at the bulb&#8217;s housing, base, socket, or inside the bulb itself. The label will most likely have a UL or CSA symbol. </span></li>\n</ol>\n<p>Once you know what type of bulb you currently have, you can find <a href=\"http://www.amazon.com/gp/search?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;index=aps&amp;keywords=LED%20Light%20Bulb&amp;linkCode=ur2&amp;tag=domino09d-20&amp;linkId=ALKGUBCSYLKX6JSO\" target=\"_blank\">LED replacement bulbs online</a>.</p>\n<h4>Other things to consider</h4>\n<p><span style=\"font-weight: 400;\">While LED bulbs do run cooler than traditional light bulbs and even CFLs, most LEDs still emit some heat. So they must be kept cool with the help of a </span><a href=\"http://www.cnet.com/how-to/five-things-to-consider-before-buying-led-bulbs/\"><span style=\"font-weight: 400;\">heat sink</span></a><span style=\"font-weight: 400;\">. Long story short, most LEDs are not made for enclosed light fixtures. The light fixture should provide some way for heat to escape &#8212; otherwise, your new bulb might not last as long. If your light fixture is enclosed and doesn’t provide a way for heat to escape, check to ensure that the LEDs bulbs you buy </span><a href=\"http://www.amazon.com/s/ref=a9_sc_1?rh=i%3Aaps%2Ck%3Aenclosed+led+bulbs&amp;keywords=enclosed+led+bulbs&amp;ie=UTF8&amp;qid=1445636611\"><span style=\"font-weight: 400;\">are rated to be enclosed</span></a><span style=\"font-weight: 400;\">. </span></p>\n<p><span style=\"font-weight: 400;\">Some LEDs throw light in only one direction (these are called directional), creating odd shadows. For many ceiling light fixtures, a directional light might work well. But </span><a href=\"http://www.amazon.com/s/ref=sr_nr_p_72_0?fst=as%3Aoff&amp;rh=i%3Aaps%2Ck%3Aomnidirectional+led%2Cp_72%3A2661618011&amp;keywords=omnidirectional+led&amp;ie=UTF8&amp;qid=1445636697&amp;rnid=2661617011\"><span style=\"font-weight: 400;\">omnidirectional bulbs</span></a><span style=\"font-weight: 400;\"> are still the closest replacement for a traditional light. </span></p>\n<p><a href=\"http://www.amazon.com/gp/product/B00OBQAUH2/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=9325&amp;creativeASIN=B00OBQAUH2&amp;linkCode=as2&amp;tag=domino09d-20&amp;linkId=Q3PDO7SKG7DCALBL\" target=\"_blank\"><span style=\"font-weight: 400;\">Here is a good omnidirectional LED</span></a><span style=\"font-weight: 400;\"> that&#8217;s also rated for enclosed light fixtures. </span></p>\n<h2>We can help you switch to LEDs</h2>\n<p><span style=\"font-weight: 400;\">I hope you’ve found this information helpful and that you’ll consider getting some energy-saving LED light bulbs, even if you’re not yet ready to switch out all your bulbs. It’s a good idea to have them handy for when it’s time to replace burned-out bulbs in your home! After you make the switch to LEDs, you won’t have to replace bulbs again for a long time.</span></p>\n<p><span style=\"font-weight: 400;\">If you have questions about LEDs or other energy-saving opportunities, don&#8217;t hesitate to reach out to your friendly </span><a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_ChangeLightBulbLEDs\"><span style=\"font-weight: 400;\">MyDomino energy savings concierge</span></a><span style=\"font-weight: 400;\">. We look forward to speaking with you!  </span></p>\n<p><span style=\"font-weight: 400;\">Image Sources:  </span><span style=\"font-weight: 400;\"><a href=\"http://www.nrdc.org/energy/lightbulbs/files/lightbulbguide.pdf\" target=\"_blank\">1</a>, </span><span style=\"font-weight: 400;\"><a href=\"http://www.topbulb.com/blog/wp-content/uploads/2015/02/lighting-facts-label.jpg\" target=\"_blank\">2</a>, </span><a href=\"http://www.seesmartled.com/kb/choosing_color_temperature/\" target=\"_blank\"><span style=\"font-weight: 400;\">3</span></a><span style=\"font-weight: 400;\">, </span><a href=\"https://www.energystar.gov/index.cfm?c=cfls.pr_cfls_color\" target=\"_blank\"><span style=\"font-weight: 400;\">4</span></a></p>\n<hr />\n<p><em>In the MyDomino Concierge Corner, our concierges give you their expert tips to save energy and money. Today, Laura Osburn makes it easy to pick the right LED bulb.</em></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+    "protected": false
+  },
+  "excerpt": {
+    "rendered": "<p>Maybe you&#8217;re ready to switch to LEDs, but stumped by all the options. How do you choose? MyDomino concierge Laura Osburn has the answers.</p>\n",
+    "protected": false
+  },
+  "author": 10,
+  "featured_media": 1809,
+  "comment_status": "open",
+  "ping_status": "open",
+  "sticky": false,
+  "format": "standard",
+  "meta": {
+  },
+  "categories": [
+    231,
+    3,
+    7,
+    699
+  ],
+  "tags": [
+    103,
+    69,
+    258,
+    68,
+    289
+  ],
+  "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2015/10/Copy-of-ConciergeCorner.png",
+  "author_meta": {
+    "ID": "10",
+    "user_nicename": "laura",
+    "user_email": "laura@mydomino.com",
+    "user_registered": "2015-09-02 00:42:52",
+    "display_name": "Laura Osburn",
+    "first_name": "Laura",
+    "last_name": "Osburn"
+  },
+  "_links": {
+    "self": [
+      {
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3383"
+      }
+    ],
+    "collection": [
+      {
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+      }
+    ],
+    "about": [
+      {
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+      }
+    ],
+    "author": [
+      {
+        "embeddable": true,
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/10"
+      }
+    ],
+    "replies": [
+      {
+        "embeddable": true,
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3383"
+      }
+    ],
+    "version-history": [
+      {
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3383/revisions"
+      }
+    ],
+    "wp:featuredmedia": [
+      {
+        "embeddable": true,
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/1809"
+      }
+    ],
+    "wp:attachment": [
+      {
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3383"
+      }
+    ],
+    "wp:term": [
+      {
+        "taxonomy": "category",
+        "embeddable": true,
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3383"
+      },
+      {
+        "taxonomy": "post_tag",
+        "embeddable": true,
+        "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3383"
+      }
+    ],
+    "curies": [
+      {
+        "name": "wp",
+        "href": "https://api.w.org/{rel}",
+        "templated": true
+      }
+    ]
+  }
+}
