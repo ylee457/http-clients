@@ -181,6 +181,38 @@ end
 
 
 
+def get_posts_by_category(categry_slug)
+
+  begin
+
+    dh = DHHtp.new(DHHtp::HOST_IP)
+    
+    query_param = {filter: {category_name: categry_slug}}
+    
+    
+    response = dh.get_post_by_slug(query_param)
+
+    #puts "\nResponse is: #{response}\n"
+    puts "\nResponse header is: #{response.headers.inspect}\n"
+
+    # pretty print to screen
+    puts "\nPretty print the output\n"
+    puts JSON.pretty_generate(JSON.parse(response.body))
+
+
+    puts "\n\n\nDisplaying post(s) ....\n"
+    dh.display_posts(response.body)
+    
+    
+
+  rescue => e
+    puts "\nError! #{e}\n"
+      
+  end
+
+  
+end
+
 
 #get_posts
 #pretty_print_posts_from_api
@@ -188,4 +220,7 @@ end
 #get_post_by_id('3383')
 #get_categories
 #get_post_by_slug('how-to-switch-to-leds-2')
-get_post_by_slug('7-things-thankful-mydomino')
+#get_post_by_slug('7-things-thankful-mydomino')
+#get_posts_by_category('Transportation')
+#get_posts_by_category('energy-freedom')
+get_posts_by_category('heating-and-cooling')

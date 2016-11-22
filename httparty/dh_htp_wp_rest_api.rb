@@ -48,7 +48,7 @@ class DHHtp
     puts "\nQuery options is: #{query_options}"
 
     
-    response = self.class.get("/wp-json/wp/v2/posts", query: query_options)
+    response = self.class.get("/wp-json/wp/v2/posts?_embed", query: query_options)
     #response = self.class.get(url)
     puts "\nParams sent to URL is: #{response.request.last_uri.to_s}"
 

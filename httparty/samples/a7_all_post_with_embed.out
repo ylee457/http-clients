@@ -1,0 +1,186 @@
+paswd is: 
+
+Query options is: {:filter=>{:name=>"7-things-thankful-mydomino"}}
+
+Params sent to URL is: http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?filter[name]=7-things-thankful-mydomino
+
+Response header is: {"date"=>["Tue, 22 Nov 2016 18:52:58 GMT"], "server"=>["Apache"], "expires"=>["Thu, 19 Nov 1981 08:52:00 GMT"], "cache-control"=>["no-store, no-cache, must-revalidate, post-check=0, pre-check=0"], "pragma"=>["no-cache"], "x-robots-tag"=>["noindex"], "link"=>["<http://mydomino.dreamhosters.com/wp-json/>; rel=\"https://api.w.org/\""], "x-content-type-options"=>["nosniff"], "access-control-expose-headers"=>["X-WP-Total, X-WP-TotalPages"], "access-control-allow-headers"=>["Authorization"], "x-wp-total"=>["1"], "x-wp-totalpages"=>["1"], "allow"=>["GET"], "set-cookie"=>["PHPSESSID=uUvDrKfHfbCClFBctThl51; path=/"], "connection"=>["close"], "transfer-encoding"=>["chunked"], "content-type"=>["application/json; charset=UTF-8"]}
+
+Pretty print the output
+[
+  {
+    "id": 3285,
+    "date": "2016-11-17T10:18:40",
+    "date_gmt": "2016-11-17T18:18:40",
+    "guid": {
+      "rendered": "https://blog.mydomino.com/?p=3285"
+    },
+    "modified": "2016-11-21T12:52:46",
+    "modified_gmt": "2016-11-21T20:52:46",
+    "slug": "7-things-thankful-mydomino",
+    "type": "post",
+    "link": "http://mydomino.dreamhosters.com/7-things-thankful-mydomino/",
+    "title": {
+      "rendered": "7 Things We&#8217;re Thankful for at MyDomino"
+    },
+    "content": {
+      "rendered": "<p dir=\"ltr\">Thanksgiving is right around the corner! There&#8217;s no better time to stop and appreciate the positive things happening all around us.</p>\n<p dir=\"ltr\">Here at MyDomino, we have a lot to be thankful for. <!--more--></p>\n<h2 dir=\"ltr\">1. You!</h2>\n<p dir=\"ltr\">We&#8217;re thankful for <strong>each and every one of our MyDomino members</strong>. Thanks to you, we&#8217;ve been able to help create thousands of clean energy actions!</p>\n<p dir=\"ltr\">Some of you hadn&#8217;t thought much about clean energy before talking to a MyDomino concierge. Others had been wanting to make the switch for years, but hadn&#8217;t realized how easy it can be.</p>\n<p dir=\"ltr\">But all of you have one thing in common. You all want to be part of making a positive impact on our world &#8212; for all of us, and for future generations!</p>\n<h2 dir=\"ltr\">2. Our amazing team</h2>\n<p dir=\"ltr\">We&#8217;re so thankful to have such a wonderful team to work with at MyDomino! From our congenial and knowledgeable energy savings concierges to our diligent and creative development team to our inquisitive and resourceful product analyst &#8212; and everyone else on the team &#8212; <strong>we all come to work every day excited to be making a difference</strong>.</p>\n<p dir=\"ltr\">It&#8217;s more than just our meaningful work that keeps us going. Having such a great team to work with makes the days fly by!</p>\n<h2>3. Cheaper and more accessible solar power</h2>\n<p>Did you know that solar power is over <a href=\"https://blog.mydomino.com/cheap-solar-power-now/\">50% cheaper now than it was in 2009</a>? The priced has dropped <strong>faster than a sack of frozen turkeys dropped out of an airplane</strong>! And that means that solar is becoming accessible to more and more people.</p>\n<p>In fact, solar is spreading the most in <a href=\"https://blog.mydomino.com/solar-is-so-middle-class/\">middle-class neighborhoods</a>. <a href=\"https://cleantechnica.com/2015/07/11/solar-power-for-low-moderate-income-americans-obamas-new-solar-initiative/\" target=\"_blank\">Lower-income folks</a> are also getting in on the solar action. Plus, <a href=\"https://blog.mydomino.com/solar-savings-with-portable-panels/\">community solar programs</a> are making solar possible even for people who can&#8217;t put panels on their own roof.</p>\n<p>Solar really is for everyone. That&#8217;s something to be thankful for.</p>\n<h2>4. Clean power plans that let anyone make the switch</h2>\n<p>If for some reason you can&#8217;t go solar, or if your solar panels don&#8217;t cover all your energy use, you can still use clean energy!</p>\n<p>We&#8217;re super thankful for new <a href=\"https://blog.mydomino.com/clean-power-plan-for-everyone/\">clean power options</a> that let anyone with a power bill switch to clean wind energy. Renters and homeowners alike can sign up for a clean power plan and support more clean energy coming onto our electric grid &#8212; instead of power that may come from dirty fossil fuels.</p>\n<p><strong>Let&#8217;s talk turkey</strong>: The truth is, these days just about anyone can switch to clean power &#8212; even if you rent!</p>\n<h2>5. Better and more affordable electric cars</h2>\n<p>You can already <a href=\"https://blog.mydomino.com/ride-electric\">save money with an electric car</a>. The most popular electric car out there now, the Nissan Leaf, will run you less than $22,000 after tax credits — well below the average $32,000 sticker price for gas-powered cars.</p>\n<p>You’ll also save money on fuel (especially if you <a href=\"https://blog.mydomino.com/solar-101/\">power your car with solar</a>), maintenance, and insurance for your car.</p>\n<p>If that&#8217;s not good enough for you, the new models coming out soon will have <a href=\"https://blog.mydomino.com/new-electric-cars-coming-market/\">much better range and a lower price tag</a>!</p>\n<p>So maybe it&#8217;s time to consider <strong>driving to that Thanksgiving feast in a clean new ride</strong>.</p>\n<h2> 6. Fresh and healthy food options</h2>\n<p>Speaking of Thanksgiving feasts, we&#8217;re so thankful that these days, you can eat right by the planet and still enjoy your meal.</p>\n<p>If you&#8217;ve been following our blog, you may already know how much you can help the environment by making <a href=\"https://blog.mydomino.com/cows-climate-change/\">small changes to your diet</a>. <strong>You don&#8217;t have to go cold turkey</strong> &#8212; consider becoming a <a href=\"https://blog.mydomino.com/are-you-a-reducitarian/\">reducetarian</a>. The good news is, it&#8217;s easy to do!</p>\n<p>Avoiding processed foods and foods from factory farms will make your Thanksgiving feast more tasty &#8212; and better for you and the planet. The same goes for choosing <a href=\"https://blog.mydomino.com/lets-start-eating-local/\">locally grown fruits and vegetables</a>. You also have many more options these days for <a href=\"https://blog.mydomino.com/10-tips-to-reduce-food-waste/\">reducing food waste</a>, including farm boxes from companies like <a href=\"https://blog.mydomino.com/the-sustainable-food-trifecta/\">Imperfect Produce</a>.</p>\n<h2>7. Simple actions with epic effects</h2>\n<p>Our list wouldn&#8217;t be complete with <strong>one of the top things we&#8217;re thankful for every day</strong>: How easily we can all make a difference!</p>\n<p>Think replacing a light bulb is just a drop in the bucket? It is! But if 60 people switch to LEDs, that’s like taking <a href=\"https://blog.mydomino.com/small-light-bulb-epic-effect/\">25 cars off the road for a year</a>. If 1000 people switch, that&#8217;s like taking over 400 cars off the road. If every American household made the switch, it would be like taking nearly 52 million cars off the road for a whole year! That&#8217;s about one-fifth of all cars on American roads.</p>\n<p>You get the picture.</p>\n<p>Each one of us can do so many small things that will lead to epic effects &#8212; for the world, and for our pocketbooks. To check out just a few tips, see our post on <a href=\"https://blog.mydomino.com/4-easy-ways-to-save-on-your-electric-bill-each-month/\">easy ways to save on your electric bill each month</a>, or our post on <a href=\"https://blog.mydomino.com/6-free-ways-to-save-money-and-energy/\">free ways to save money and energy</a>.</p>\n<h2 dir=\"ltr\">What are you thankful for?</h2>\n<p dir=\"ltr\">We&#8217;d love to hear from you! <strong>Let us know what you&#8217;re thankful for</strong> in the comments section below &#8212; or <a href=\"https://twitter.com/OurDominoEffect\" target=\"_blank\">tweet to us</a>, <a href=\"https://www.facebook.com/ourdominoeffect/?ref=bookmarks\" target=\"_blank\">post on our Facebook page</a>, or <a href=\"mailto:hello@mydomino.com\" target=\"_blank\">send us an email</a>.</p>\n<p dir=\"ltr\">And if our list has you excited about switching to clean energy and saving money, <strong>contact a <a href=\"http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_ThankfulForSolar\" target=\"_blank\">MyDomino energy savings concierge</a></strong> to see how you can get started.</p>\n<p dir=\"ltr\">We have so many reasons to be thankful. <strong>We&#8217;re especially thankful that we can make it easy for Americans like you to make a difference!</strong></p>\n<span class=\"rad_rapidology_bottom_trigger\"></span>",
+      "protected": false
+    },
+    "excerpt": {
+      "rendered": "<p>Thanksgiving is right around the corner! There&#8217;s no better time to stop and appreciate the positive things happening all around us. Here at MyDomino, we have a lot to be thankful for. </p>\n",
+      "protected": false
+    },
+    "author": 2,
+    "featured_media": 3413,
+    "comment_status": "open",
+    "ping_status": "open",
+    "sticky": false,
+    "format": "standard",
+    "meta": {
+    },
+    "categories": [
+      4,
+      699
+    ],
+    "tags": [
+      149,
+      124,
+      23,
+      691,
+      692,
+      693
+    ],
+    "md_thumbnail": "http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-People-Cheers-Celebrating-Than-150288137.jpg",
+    "author_meta": {
+      "ID": "2",
+      "user_nicename": "rosana",
+      "user_email": "rosana@mydomino.com",
+      "user_url": "http://www.mydomino.com",
+      "user_registered": "2015-05-21 00:35:21",
+      "display_name": "Rosana Francescato",
+      "first_name": "Rosana",
+      "last_name": "Francescato"
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3285"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/types/post"
+        }
+      ],
+      "author": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/users/2"
+        }
+      ],
+      "replies": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/comments?post=3285"
+        }
+      ],
+      "version-history": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts/3285/revisions"
+        }
+      ],
+      "wp:featuredmedia": [
+        {
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media/3413"
+        }
+      ],
+      "wp:attachment": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/media?parent=3285"
+        }
+      ],
+      "wp:term": [
+        {
+          "taxonomy": "category",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?post=3285"
+        },
+        {
+          "taxonomy": "post_tag",
+          "embeddable": true,
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/tags?post=3285"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
+
+
+
+Displaying post(s) ....
+Total 1 posts:
+
+
+
+======================================
+POST title: 7 Things We&#8217;re Thankful for at MyDomino
+POST ID: 3285
+Author Name: Rosana Francescato
+POST date: Nov 17, 2016
+POST slug: 7-things-thankful-mydomino
+POST type: post
+POST link: http://mydomino.dreamhosters.com/7-things-thankful-mydomino/
+POST feature image URL: http://mydomino.dreamhosters.com/wp-content/uploads/2016/11/bigstock-People-Cheers-Celebrating-Than-150288137.jpg
+POST excerpt: <p>Thanksgiving is right around the corner! There&#8217;s no better time to stop and appreciate the positive things happening all around us. Here at MyDomino, we have a lot to be thankful for. </p>
+
+POST content: <p dir="ltr">Thanksgiving is right around the corner! There&#8217;s no better time to stop and appreciate the positive things happening all around us.</p>
+<p dir="ltr">Here at MyDomino, we have a lot to be thankful for. <!--more--></p>
+<h2 dir="ltr">1. You!</h2>
+<p dir="ltr">We&#8217;re thankful for <strong>each and every one of our MyDomino members</strong>. Thanks to you, we&#8217;ve been able to help create thousands of clean energy actions!</p>
+<p dir="ltr">Some of you hadn&#8217;t thought much about clean energy before talking to a MyDomino concierge. Others had been wanting to make the switch for years, but hadn&#8217;t realized how easy it can be.</p>
+<p dir="ltr">But all of you have one thing in common. You all want to be part of making a positive impact on our world &#8212; for all of us, and for future generations!</p>
+<h2 dir="ltr">2. Our amazing team</h2>
+<p dir="ltr">We&#8217;re so thankful to have such a wonderful team to work with at MyDomino! From our congenial and knowledgeable energy savings concierges to our diligent and creative development team to our inquisitive and resourceful product analyst &#8212; and everyone else on the team &#8212; <strong>we all come to work every day excited to be making a difference</strong>.</p>
+<p dir="ltr">It&#8217;s more than just our meaningful work that keeps us going. Having such a great team to work with makes the days fly by!</p>
+<h2>3. Cheaper and more accessible solar power</h2>
+<p>Did you know that solar power is over <a href="https://blog.mydomino.com/cheap-solar-power-now/">50% cheaper now than it was in 2009</a>? The priced has dropped <strong>faster than a sack of frozen turkeys dropped out of an airplane</strong>! And that means that solar is becoming accessible to more and more people.</p>
+<p>In fact, solar is spreading the most in <a href="https://blog.mydomino.com/solar-is-so-middle-class/">middle-class neighborhoods</a>. <a href="https://cleantechnica.com/2015/07/11/solar-power-for-low-moderate-income-americans-obamas-new-solar-initiative/" target="_blank">Lower-income folks</a> are also getting in on the solar action. Plus, <a href="https://blog.mydomino.com/solar-savings-with-portable-panels/">community solar programs</a> are making solar possible even for people who can&#8217;t put panels on their own roof.</p>
+<p>Solar really is for everyone. That&#8217;s something to be thankful for.</p>
+<h2>4. Clean power plans that let anyone make the switch</h2>
+<p>If for some reason you can&#8217;t go solar, or if your solar panels don&#8217;t cover all your energy use, you can still use clean energy!</p>
+<p>We&#8217;re super thankful for new <a href="https://blog.mydomino.com/clean-power-plan-for-everyone/">clean power options</a> that let anyone with a power bill switch to clean wind energy. Renters and homeowners alike can sign up for a clean power plan and support more clean energy coming onto our electric grid &#8212; instead of power that may come from dirty fossil fuels.</p>
+<p><strong>Let&#8217;s talk turkey</strong>: The truth is, these days just about anyone can switch to clean power &#8212; even if you rent!</p>
+<h2>5. Better and more affordable electric cars</h2>
+<p>You can already <a href="https://blog.mydomino.com/ride-electric">save money with an electric car</a>. The most popular electric car out there now, the Nissan Leaf, will run you less than $22,000 after tax credits — well below the average $32,000 sticker price for gas-powered cars.</p>
+<p>You’ll also save money on fuel (especially if you <a href="https://blog.mydomino.com/solar-101/">power your car with solar</a>), maintenance, and insurance for your car.</p>
+<p>If that&#8217;s not good enough for you, the new models coming out soon will have <a href="https://blog.mydomino.com/new-electric-cars-coming-market/">much better range and a lower price tag</a>!</p>
+<p>So maybe it&#8217;s time to consider <strong>driving to that Thanksgiving feast in a clean new ride</strong>.</p>
+<h2> 6. Fresh and healthy food options</h2>
+<p>Speaking of Thanksgiving feasts, we&#8217;re so thankful that these days, you can eat right by the planet and still enjoy your meal.</p>
+<p>If you&#8217;ve been following our blog, you may already know how much you can help the environment by making <a href="https://blog.mydomino.com/cows-climate-change/">small changes to your diet</a>. <strong>You don&#8217;t have to go cold turkey</strong> &#8212; consider becoming a <a href="https://blog.mydomino.com/are-you-a-reducitarian/">reducetarian</a>. The good news is, it&#8217;s easy to do!</p>
+<p>Avoiding processed foods and foods from factory farms will make your Thanksgiving feast more tasty &#8212; and better for you and the planet. The same goes for choosing <a href="https://blog.mydomino.com/lets-start-eating-local/">locally grown fruits and vegetables</a>. You also have many more options these days for <a href="https://blog.mydomino.com/10-tips-to-reduce-food-waste/">reducing food waste</a>, including farm boxes from companies like <a href="https://blog.mydomino.com/the-sustainable-food-trifecta/">Imperfect Produce</a>.</p>
+<h2>7. Simple actions with epic effects</h2>
+<p>Our list wouldn&#8217;t be complete with <strong>one of the top things we&#8217;re thankful for every day</strong>: How easily we can all make a difference!</p>
+<p>Think replacing a light bulb is just a drop in the bucket? It is! But if 60 people switch to LEDs, that’s like taking <a href="https://blog.mydomino.com/small-light-bulb-epic-effect/">25 cars off the road for a year</a>. If 1000 people switch, that&#8217;s like taking over 400 cars off the road. If every American household made the switch, it would be like taking nearly 52 million cars off the road for a whole year! That&#8217;s about one-fifth of all cars on American roads.</p>
+<p>You get the picture.</p>
+<p>Each one of us can do so many small things that will lead to epic effects &#8212; for the world, and for our pocketbooks. To check out just a few tips, see our post on <a href="https://blog.mydomino.com/4-easy-ways-to-save-on-your-electric-bill-each-month/">easy ways to save on your electric bill each month</a>, or our post on <a href="https://blog.mydomino.com/6-free-ways-to-save-money-and-energy/">free ways to save money and energy</a>.</p>
+<h2 dir="ltr">What are you thankful for?</h2>
+<p dir="ltr">We&#8217;d love to hear from you! <strong>Let us know what you&#8217;re thankful for</strong> in the comments section below &#8212; or <a href="https://twitter.com/OurDominoEffect" target="_blank">tweet to us</a>, <a href="https://www.facebook.com/ourdominoeffect/?ref=bookmarks" target="_blank">post on our Facebook page</a>, or <a href="mailto:hello@mydomino.com" target="_blank">send us an email</a>.</p>
+<p dir="ltr">And if our list has you excited about switching to clean energy and saving money, <strong>contact a <a href="http://mydomino.com/?utm_source=bff_blog&amp;utm_medium=bff_article&amp;utm_campaign=bff_ThankfulForSolar" target="_blank">MyDomino energy savings concierge</a></strong> to see how you can get started.</p>
+<p dir="ltr">We have so many reasons to be thankful. <strong>We&#8217;re especially thankful that we can make it easy for Americans like you to make a difference!</strong></p>
+<span class="rad_rapidology_bottom_trigger"></span>
+Content Image URLs: []

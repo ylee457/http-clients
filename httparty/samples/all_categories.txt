@@ -1,0 +1,341 @@
+paswd is: 
+Getting categories from Dreamhost with WP REST API V2...
+paswd is: Ev2S9rsBZ7ASFsD
+
+Query options is: {}
+
+Params sent to URL is: http://mydomino.dreamhosters.com/wp-json/wp/v2/categories?
+
+Response header is: {"date"=>["Tue, 22 Nov 2016 21:27:12 GMT"], "server"=>["Apache"], "expires"=>["Thu, 19 Nov 1981 08:52:00 GMT"], "cache-control"=>["no-store, no-cache, must-revalidate, post-check=0, pre-check=0"], "pragma"=>["no-cache"], "x-robots-tag"=>["noindex"], "link"=>["<http://mydomino.dreamhosters.com/wp-json/>; rel=\"https://api.w.org/\""], "x-content-type-options"=>["nosniff"], "access-control-expose-headers"=>["X-WP-Total, X-WP-TotalPages"], "access-control-allow-headers"=>["Authorization"], "x-wp-total"=>["8"], "x-wp-totalpages"=>["1"], "allow"=>["GET"], "set-cookie"=>["PHPSESSID=jir24dqgIctbZN-W8aEdh0; path=/"], "connection"=>["close"], "transfer-encoding"=>["chunked"], "content-type"=>["application/json; charset=UTF-8"]}
+
+Pretty print the output
+[
+  {
+    "id": 4,
+    "count": 121,
+    "description": "",
+    "link": "http://mydomino.dreamhosters.com/category/clean-power/",
+    "name": "Clean Power",
+    "slug": "clean-power",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/4"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=4"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 231,
+    "count": 27,
+    "description": "",
+    "link": "http://mydomino.dreamhosters.com/category/concierge-corner/",
+    "name": "Concierge Corner",
+    "slug": "concierge-corner",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/231"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=231"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 3,
+    "count": 49,
+    "description": "",
+    "link": "http://mydomino.dreamhosters.com/category/dont-miss/",
+    "name": "Don't Miss",
+    "slug": "dont-miss",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/3"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=3"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 7,
+    "count": 105,
+    "description": "",
+    "link": "http://mydomino.dreamhosters.com/category/energy-freedom/",
+    "name": "Energy Freedom",
+    "slug": "energy-freedom",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/7"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=7"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 6,
+    "count": 25,
+    "description": "",
+    "link": "http://mydomino.dreamhosters.com/category/heating-and-cooling/",
+    "name": "Heating &amp; Cooling",
+    "slug": "heating-and-cooling",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/6"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=6"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 699,
+    "count": 4,
+    "description": "This category is for our members only.",
+    "link": "http://mydomino.dreamhosters.com/category/members-only/",
+    "name": "Members Only",
+    "slug": "members-only",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/699"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=699"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 5,
+    "count": 44,
+    "description": "",
+    "link": "http://mydomino.dreamhosters.com/category/transportation/",
+    "name": "Transportation",
+    "slug": "transportation",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/5"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=5"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  },
+  {
+    "id": 1,
+    "count": 2,
+    "description": "",
+    "link": "http://mydomino.dreamhosters.com/category/uncategorized/",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "taxonomy": "category",
+    "parent": 0,
+    "meta": {
+    },
+    "_links": {
+      "self": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories/1"
+        }
+      ],
+      "collection": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/categories"
+        }
+      ],
+      "about": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/taxonomies/category"
+        }
+      ],
+      "wp:post_type": [
+        {
+          "href": "http://mydomino.dreamhosters.com/wp-json/wp/v2/posts?categories=1"
+        }
+      ],
+      "curies": [
+        {
+          "name": "wp",
+          "href": "https://api.w.org/{rel}",
+          "templated": true
+        }
+      ]
+    }
+  }
+]
