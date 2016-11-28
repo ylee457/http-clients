@@ -223,4 +223,5 @@ end
 #get_post_by_slug('7-things-thankful-mydomino')
 #get_posts_by_category('Transportation')
 #get_posts_by_category('energy-freedom')
-get_posts_by_category('heating-and-cooling')
+#get_posts_by_category('heating-and-cooling')
+get_posts_by_category('clean-power')
