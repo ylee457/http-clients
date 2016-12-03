@@ -9,7 +9,7 @@ class DHHtp
 
 	#debug_output STDOUT
 
-  HOST_IP = 'mydomino.dreamhosters.com'
+  HOST_IP = 'https://mydomino.dreamhosters.com'
 
   # Note: this value is from dreamhosts WP database for category. This value need to be updated if the WP databse is changed.
   MEMBER_ONLY_CATEGORY = 699   
@@ -21,11 +21,21 @@ class DHHtp
 		# set the base URL 
     self.class.base_uri(@host_ip)
 
+    user_name = ENV['WP_user_name']
     paswd = ENV['WP_password']
-    puts "paswd is: #{paswd}"
+    puts "WP_user_name is: #{user_name}. paswd is: #{paswd}"
 
     # set digest authentication
-    self.class.digest_auth('owner', paswd)
+    #self.class.digest_auth('owner', paswd)
+
+    # set up to use basic authentication
+    @options = {
+      basic_auth: { 
+        username: user_name, 
+        password: paswd
+      }
+    }
+
 	end
 
 
@@ -35,15 +45,18 @@ class DHHtp
 	  puts "Getting Posts from Dreamhost with WP REST API V2...\n"
 
 	  # set the base URL 
-	  self.class.base_uri(@host_ip)
-
-	  paswd = ENV['egauge_password']
-    puts "paswd is: #{paswd}"
-
-    # set digest authentication
-	  self.class.digest_auth('owner', paswd)
+	  #self.class.base_uri(@host_ip)
+#
+	  #paswd = ENV['egauge_password']
+    #puts "paswd is: #{paswd}"
+#
+    ## set digest authentication
+	  #self.class.digest_auth('owner', paswd)
 
 	  #url = "http://#{@host_ip}/cgi-bin/egauge?tot&inst&teamstat&v1"
+
+    # merge the query options with default options
+    query_options = @options.merge(query_options)
     
     puts "\nQuery options is: #{query_options}"
 

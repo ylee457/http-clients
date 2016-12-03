@@ -9,7 +9,7 @@ def get_posts
 
   	dh = DHHtp.new(DHHtp::HOST_IP)
   	#query_param = {filter: {posts_per_page: 6, page:3}}
-    query_param = {page: 2, per_page: 8}
+    query_param = {page: 3, per_page: 8}
     
     #query_param = {json: 'core.info', controller: 'core'}
   	response = dh.get_posts(query_param)
@@ -214,7 +214,7 @@ def get_posts_by_category(categry_slug)
 end
 
 
-#get_posts
+get_posts
 #pretty_print_posts_from_api
 #get_recent_posts
 #get_post_by_id('3383')
@@ -224,4 +224,4 @@ end
 #get_posts_by_category('Transportation')
 #get_posts_by_category('energy-freedom')
 #get_posts_by_category('heating-and-cooling')
-get_posts_by_category('clean-power')
+#get_posts_by_category('clean-power')
