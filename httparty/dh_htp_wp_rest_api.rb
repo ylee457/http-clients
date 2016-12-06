@@ -44,16 +44,6 @@ class DHHtp
 
 	  puts "Getting Posts from Dreamhost with WP REST API V2...\n"
 
-	  # set the base URL 
-	  #self.class.base_uri(@host_ip)
-#
-	  #paswd = ENV['egauge_password']
-    #puts "paswd is: #{paswd}"
-#
-    ## set digest authentication
-	  #self.class.digest_auth('owner', paswd)
-
-	  #url = "http://#{@host_ip}/cgi-bin/egauge?tot&inst&teamstat&v1"
 
     # merge the query options with default options
     query_options = @options.merge(query_options)
