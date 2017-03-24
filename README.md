@@ -1,1 +1,3 @@
 # http-clients
+
+My simple self-experiment codes with httparty, rest-client gems etc...
